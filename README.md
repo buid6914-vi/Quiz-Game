@@ -65,6 +65,7 @@ Ví dụ:
 - Bộ đếm thời gian
 - Tiến trình câu hỏi
 - Hiển thị điểm
+- Pause Menu
 - Game Over Panel
 - Retry
 - Back To Menu
@@ -172,7 +173,6 @@ Lưu High Score
 - Audio Manager
 - Nhạc nền
 - Hiệu ứng âm thanh
-- Pause Menu
 - Settings
 - Animation chiến đấu
 - Hiệu ứng UI
