@@ -1,0 +1,4 @@
+Game:Quiz game
+thể loại: casual/p
+vòng đời game:vào game-> chọn chủ đề ->load câu hỏi-> trả lời câu hỏi->kiểm tra đúng /sai câu trả lời của người chơi->thắng enemy thì hồi hp cho player và tiếp tục trả lời câu hỏi) lưu điểm số highscore(Hp player=0)
+chủ đề:Dùng LinQ dùng FindAll để lọc chủ đề trong enum cho mỗi chủ đề đã gán trước

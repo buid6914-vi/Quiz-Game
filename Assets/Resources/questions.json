@@ -1,0 +1,4637 @@
+{
+  "questions": [
+    {
+      "category": 0,
+      "question": "Kết quả của phép tính 15 + 27 là bao nhiêu?",
+      "answers": ["32", "42", "52", "44"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Số nào sau đây là số nguyên tố nhỏ nhất?",
+      "answers": ["0", "1", "2", "3"],
+      "correctIndex": 2
+    },
+    {
+      "category": 0,
+      "question": "Một hình vuông có cạnh bằng 5cm. Diện tích của nó là bao nhiêu?",
+      "answers": ["20cm²", "25cm²", "10cm²", "15cm²"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Giá trị của x trong phương trình 2x - 4 = 10 là?",
+      "answers": ["3", "7", "8", "14"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "1 giờ 15 phút bằng bao nhiêu phút?",
+      "answers": ["65 phút", "75 phút", "85 phút", "115 phút"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Số nào là số chẵn lớn nhất có 2 chữ số?",
+      "answers": ["90", "98", "99", "100"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Kết quả của 125 x 8 là?",
+      "answers": ["800", "900", "1000", "1100"],
+      "correctIndex": 2
+    },
+    {
+      "category": 0,
+      "question": "Số đối của -15 là?",
+      "answers": ["0", "15", "-15", "1/15"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Phân số 3/4 viết dưới dạng số thập phân là?",
+      "answers": ["0.34", "0.5", "0.75", "0.8"],
+      "correctIndex": 2
+    },
+    {
+      "category": 0,
+      "question": "Tổng các góc trong một tam giác bằng bao nhiêu độ?",
+      "answers": ["90°", "180°", "270°", "360°"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Số nào vừa chia hết cho 2 vừa chia hết cho 5?",
+      "answers": ["12", "15", "20", "22"],
+      "correctIndex": 2
+    },
+    {
+      "category": 0,
+      "question": "Tìm x biết: x^2 = 64 (x > 0)?",
+      "answers": ["4", "6", "8", "12"],
+      "correctIndex": 2
+    },
+    {
+      "category": 0,
+      "question": "Căn bậc hai của 144 là?",
+      "answers": ["12", "14", "16", "24"],
+      "correctIndex": 0
+    },
+    {
+      "category": 0,
+      "question": "Số Pi (π) thường được lấy giá trị xấp xỉ là bao nhiêu?",
+      "answers": ["3.12", "3.14", "3.16", "3.18"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Trong các số sau, số nào chia hết cho 3?",
+      "answers": ["121", "122", "123", "124"],
+      "correctIndex": 2
+    },
+    {
+      "category": 0,
+      "question": "Một năm nhuận có bao nhiêu ngày?",
+      "answers": ["364", "365", "366", "367"],
+      "correctIndex": 2
+    },
+    {
+      "category": 0,
+      "question": "Dãy số: 2, 4, 8, 16... Số tiếp theo là?",
+      "answers": ["24", "30", "32", "64"],
+      "correctIndex": 2
+    },
+    {
+      "category": 0,
+      "question": "Bán kính hình tròn là 3cm. Chu vi hình tròn đó là (lấy π=3.14)?",
+      "answers": ["9.42cm", "18.84cm", "28.26cm", "15cm"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Số tự nhiên nhỏ nhất có 3 chữ số khác nhau là?",
+      "answers": ["100", "101", "102", "123"],
+      "correctIndex": 2
+    },
+    {
+      "category": 0,
+      "question": "Kết quả của phép tính: 2 + 2 x 2?",
+      "answers": ["4", "6", "8", "10"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Góc nhọn là góc có số đo?",
+      "answers": ["Bằng 90°", "Nhỏ hơn 90°", "Lớn hơn 90°", "Bằng 180°"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Nếu 3 con mèo bắt 3 con chuột trong 3 phút, thì 10 con mèo bắt 10 con chuột trong mấy phút?",
+      "answers": ["1 phút", "3 phút", "10 phút", "30 phút"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Số âm lớn nhất là số nào?",
+      "answers": ["-100", "0", "-1", "Không tồn tại"],
+      "correctIndex": 2
+    },
+    {
+      "category": 0,
+      "question": "Bội chung nhỏ nhất của 4 và 6 là?",
+      "answers": ["2", "12", "24", "48"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Trong một lớp có 40 học sinh, 25% là học sinh giỏi. Có bao nhiêu học sinh giỏi?",
+      "answers": ["5", "10", "15", "20"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Tìm x: log2(8) = x?",
+      "answers": ["2", "3", "4", "8"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Định lý Pytago áp dụng cho loại tam giác nào?",
+      "answers": ["Tam giác đều", "Tam giác cân", "Tam giác vuông", "Tam giác nhọn"],
+      "correctIndex": 2
+    },
+    {
+      "category": 0,
+      "question": "Số nào sau đây không phải số hữu tỉ?",
+      "answers": ["0.5", "2/3", "Căn bậc hai của 2", "-5"],
+      "correctIndex": 2
+    },
+    {
+      "category": 0,
+      "question": "Công thức tính diện tích hình thang là gì? (a, b là đáy, h là chiều cao)",
+      "answers": ["(a+b)xh", "(a+b)xh/2", "axb/h", "axbxh"],
+      "correctIndex": 1
+    },
+    {
+      "category": 0,
+      "question": "Một con sên leo cột cao 10m. Ngày leo 3m, đêm tụt 2m. Sau bao lâu nó lên tới đỉnh?",
+      "answers": ["7 ngày", "8 ngày", "9 ngày", "10 ngày"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Ai là người đọc bản Tuyên ngôn Độc lập khai sinh ra nước Việt Nam Dân chủ Cộng hòa?",
+      "answers": ["Võ Nguyên Giáp", "Hồ Chí Minh", "Trần Phú", "Phạm Văn Đồng"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Chiến thắng Điện Biên Phủ lừng lẫy năm châu chấn động địa cầu diễn ra vào năm nào?",
+      "answers": ["1945", "1954", "1975", "1930"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Vị vua cuối cùng của triều đại phong kiến Việt Nam là ai?",
+      "answers": ["Khải Định", "Duy Tân", "Bảo Đại", "Hàm Nghi"],
+      "correctIndex": 2
+    },
+    {
+      "category": 1,
+      "question": "Kinh đô của triều đại nhà Nguyễn nằm ở đâu?",
+      "answers": ["Thăng Long", "Hoa Lư", "Huế", "Cổ Loa"],
+      "correctIndex": 2
+    },
+    {
+      "category": 1,
+      "question": "Hai Bà Trưng đã cưỡi con vật gì khi ra trận?",
+      "answers": ["Ngựa", "Voi", "Hổ", "Trâu"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Người anh hùng dân tộc nào đã ba lần đánh thắng quân Nguyên Mông trên sông Bạch Đằng?",
+      "answers": ["Trần Hưng Đạo", "Ngô Quyền", "Lê Lợi", "Quang Trung"],
+      "correctIndex": 0
+    },
+    {
+      "category": 1,
+      "question": "Ngày giải phóng miền Nam, thống nhất đất nước là ngày nào?",
+      "answers": ["2/9", "19/5", "30/4", "22/12"],
+      "correctIndex": 2
+    },
+    {
+      "category": 1,
+      "question": "Vị vua nào đã thực hiện cuộc dời đô từ Hoa Lư về Thăng Long năm 1010?",
+      "answers": ["Lý Thái Tổ", "Lý Thánh Tông", "Lý Nhân Tông", "Lý Thái Tông"],
+      "correctIndex": 0
+    },
+    {
+      "category": 1,
+      "question": "Triều đại nào dài nhất trong lịch sử Việt Nam?",
+      "answers": ["Nhà Trần", "Nhà Lê", "Nhà Lý", "Nhà Nguyễn"],
+      "correctIndex": 2
+    },
+    {
+      "category": 1,
+      "question": "Ai là người lãnh đạo cuộc khởi nghĩa Lam Sơn?",
+      "answers": ["Nguyễn Huệ", "Lê Lợi", "Đinh Bộ Lĩnh", "Trần Thái Tông"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Chiến thắng nào đã chấm dứt hơn 1000 năm Bắc thuộc của dân tộc ta?",
+      "answers": ["Chiến thắng Chi Lăng", "Chiến thắng Ngọc Hồi", "Chiến thắng Bạch Đằng (938)", "Chiến thắng Rạch Gầm"],
+      "correctIndex": 2
+    },
+    {
+      "category": 1,
+      "question": "Đinh Bộ Lĩnh đã dẹp loạn bao nhiêu sứ quân để thống nhất đất nước?",
+      "answers": ["10 sứ quân", "12 sứ quân", "14 sứ quân", "16 sứ quân"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Nhà nước đầu tiên của người Việt có tên là gì?",
+      "answers": ["Âu Lạc", "Vạn Xuân", "Văn Lang", "Đại Việt"],
+      "correctIndex": 2
+    },
+    {
+      "category": 1,
+      "question": "Ai là tác giả của 'Bình Ngô Đại Cáo'?",
+      "answers": ["Nguyễn Du", "Nguyễn Trãi", "Chu Văn An", "Trần Hưng Đạo"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Trận đánh nào được coi là trận quyết chiến chiến lược trong chiến dịch Hồ Chí Minh?",
+      "answers": ["Trận Buôn Ma Thuột", "Trận Xuân Lộc", "Trận Huế - Đà Nẵng", "Trận Điện Biên Phủ"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Hoàng đế nào được mệnh danh là 'Vua đen'?",
+      "answers": ["Mai Hắc Đế", "Lý Nam Đế", "Phùng Hưng", "Khúc Thừa Dụ"],
+      "correctIndex": 0
+    },
+    {
+      "category": 1,
+      "question": "Đông Kinh Nghĩa Thục là phong trào giáo dục do ai sáng lập chính?",
+      "answers": ["Phan Bội Châu", "Phan Châu Trinh", "Lương Văn Can", "Nguyễn Thái Học"],
+      "correctIndex": 2
+    },
+    {
+      "category": 1,
+      "question": "Cuộc cải cách hành chính lớn nhất thời phong kiến Việt Nam là của vị vua nào?",
+      "answers": ["Lý Thánh Tông", "Trần Nhân Tông", "Lê Thánh Tông", "Minh Mạng"],
+      "correctIndex": 2
+    },
+    {
+      "category": 1,
+      "question": "Quốc hiệu 'Đại Cồ Việt' bắt đầu từ triều đại nào?",
+      "answers": ["Nhà Ngô", "Nhà Đinh", "Nhà Tiền Lê", "Nhà Hậu Lê"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Trận 'Điện Biên Phủ trên không' diễn ra vào năm nào?",
+      "answers": ["1968", "1972", "1973", "1975"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Vị Trạng nguyên trẻ tuổi nhất trong lịch sử khoa bảng Việt Nam là ai?",
+      "answers": ["Lương Thế Vinh", "Lê Quý Đôn", "Nguyễn Hiền", "Mạc Đĩnh Chi"],
+      "correctIndex": 2
+    },
+    {
+      "category": 1,
+      "question": "Vua Quang Trung đại phá quân Thanh vào mùa xuân năm nào?",
+      "answers": ["1788", "1789", "1790", "1791"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Đội Việt Nam Tuyên truyền Giải phóng quân được thành lập tại đâu?",
+      "answers": ["Pác Bó", "Trần Hưng Đạo", "Tân Trào", "Định Hóa"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Nước Việt Nam được mang tên 'Đại Việt' lần đầu tiên dưới thời vua nào?",
+      "answers": ["Lý Thái Tổ", "Lý Thánh Tông", "Trần Thái Tông", "Lê Thái Tổ"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Bản hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa được thông qua năm nào?",
+      "answers": ["1945", "1946", "1959", "1980"],
+      "correctIndex": 1
+    },
+    {
+      "category": 1,
+      "question": "Ai là người đã lấy thân mình lấp lỗ châu mai trong chiến dịch Điện Biên Phủ?",
+      "answers": ["Phan Đình Giót", "Tô Vĩnh Diện", "Bế Văn Đàn", "Cù Chính Lan"],
+      "correctIndex": 0
+    },
+    {
+      "category": 1,
+      "question": "Phong trào Cần Vương bắt đầu sau sự kiện nào?",
+      "answers": ["Vua Hàm Nghi xuất bôn", "Vua Duy Tân khởi nghĩa", "Pháp chiếm thành Hà Nội", "Thành phố Huế thất thủ"],
+      "correctIndex": 0
+    },
+    {
+      "category": 1,
+      "question": "Tổ chức 'Việt Nam Quang phục Hội' do ai sáng lập?",
+      "answers": ["Phan Bội Châu", "Nguyễn Ái Quốc", "Phan Châu Trinh", "Huỳnh Thúc Kháng"],
+      "correctIndex": 0
+    },
+    {
+      "category": 1,
+      "question": "Triều đại nào đã đặt ra lệ 'Tứ bất' (không lập Hoàng hậu, không tể tướng...)?",
+      "answers": ["Nhà Trần", "Nhà Lê", "Nhà Mạc", "Nhà Nguyễn"],
+      "correctIndex": 3
+    },
+    {
+      "category": 1,
+      "question": "Hội nghị Diên Hồng - hội nghị trưng cầu dân ý đầu tiên - diễn ra dưới triều đại nào?",
+      "answers": ["Nhà Lý", "Nhà Trần", "Nhà Hậu Lê", "Nhà Tây Sơn"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Thủ đô của Việt Nam là thành phố nào?",
+      "answers": ["Đà Nẵng", "Hồ Chí Minh", "Hà Nội", "Huế"],
+      "correctIndex": 2
+    },
+    {
+      "category": 2,
+      "question": "Đỉnh núi nào được mệnh danh là 'Nóc nhà Đông Dương'?",
+      "answers": ["Fansipan", "Mẫu Sơn", "Bà Đen", "Pu Si Lung"],
+      "correctIndex": 0
+    },
+    {
+      "category": 2,
+      "question": "Việt Nam nằm ở bán đảo nào?",
+      "answers": ["Bán đảo Triều Tiên", "Bán đảo Đông Dương", "Bán đảo Arab", "Bán đảo Balkan"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Con sông nào dài nhất thế giới?",
+      "answers": ["Sông Amazon", "Sông Mê Kông", "Sông Nile", "Sông Mississippi"],
+      "correctIndex": 2
+    },
+    {
+      "category": 2,
+      "question": "Quốc gia nào có diện tích lớn nhất thế giới?",
+      "answers": ["Mỹ", "Trung Quốc", "Canada", "Nga"],
+      "correctIndex": 3
+    },
+    {
+      "category": 2,
+      "question": "Đảo nào là hòn đảo lớn nhất hành tinh?",
+      "answers": ["Greenland", "Iceland", "Madagascar", "Phú Quốc"],
+      "correctIndex": 0
+    },
+    {
+      "category": 2,
+      "question": "Sa mạc nào lớn nhất thế giới?",
+      "answers": ["Sa mạc Gobi", "Sa mạc Sahara", "Sa mạc Thar", "Sa mạc Atacama"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Thành phố nào của Việt Nam được gọi là 'Thành phố ngàn hoa'?",
+      "answers": ["Sapa", "Đà Lạt", "Pleiku", "Buôn Ma Thuột"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Đại dương nào sâu nhất thế giới?",
+      "answers": ["Ấn Độ Dương", "Đại Tây Dương", "Bắc Băng Dương", "Thái Bình Dương"],
+      "correctIndex": 3
+    },
+    {
+      "category": 2,
+      "question": "Đèo nào nối liền Thừa Thiên Huế và Đà Nẵng?",
+      "answers": ["Đèo Ngang", "Đèo Hải Vân", "Đèo Cù Mông", "Đèo Ngoạn Mục"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Nước nào được gọi là 'Xứ sở hoa anh đào'?",
+      "answers": ["Hàn Quốc", "Trung Quốc", "Nhật Bản", "Thái Lan"],
+      "correctIndex": 2
+    },
+    {
+      "category": 2,
+      "question": "Dãy núi cao nhất thế giới là dãy núi nào?",
+      "answers": ["Dãy Andes", "Dãy Rocky", "Dãy Himalaya", "Dãy Alps"],
+      "correctIndex": 2
+    },
+    {
+      "category": 2,
+      "question": "Thác nước nào nằm giữa biên giới Việt Nam và Trung Quốc?",
+      "answers": ["Thác Cam Ly", "Thác Bản Giốc", "Thác Pongour", "Thác Dambri"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Quốc gia nào có nhiều đảo nhất thế giới?",
+      "answers": ["Indonesia", "Philippines", "Thụy Điển", "Hy Lạp"],
+      "correctIndex": 2
+    },
+    {
+      "category": 2,
+      "question": "Kênh đào nào nối liền Địa Trung Hải và Hồng Hải?",
+      "answers": ["Kênh đào Panama", "Kênh đào Suez", "Kênh đào Kiel", "Kênh đào Corinth"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Châu lục nào lạnh nhất trên Trái Đất?",
+      "answers": ["Châu Âu", "Châu Á", "Châu Nam Cực", "Châu Mỹ"],
+      "correctIndex": 2
+    },
+    {
+      "category": 2,
+      "question": "Điểm cực Nam trên đất liền của Việt Nam thuộc tỉnh nào?",
+      "answers": ["Kiên Giang", "Cà Mau", "Bạc Liêu", "Sóc Trăng"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Sông Mê Kông chảy qua bao nhiêu quốc gia?",
+      "answers": ["4", "5", "6", "7"],
+      "correctIndex": 2
+    },
+    {
+      "category": 2,
+      "question": "Đất nước nào nằm ở cả hai châu lục (Á và Âu)?",
+      "answers": ["Ai Cập", "Thổ Nhĩ Kỳ", "Hy Lạp", "Ấn Độ"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Hồ nước ngọt lớn nhất Việt Nam là hồ nào?",
+      "answers": ["Hồ Tây", "Hồ Trị An", "Hồ Ba Bể", "Hồ Dầu Tiếng"],
+      "correctIndex": 2
+    },
+    {
+      "category": 2,
+      "question": "Quốc gia nào có đường bờ biển dài nhất thế giới?",
+      "answers": ["Nga", "Canada", "Úc", "Mỹ"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Đường vĩ tuyến gốc (0 độ) còn được gọi là gì?",
+      "answers": ["Kinh tuyến gốc", "Đường xích đạo", "Chí tuyến Bắc", "Chí tuyến Nam"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Thành phố nào nằm thấp nhất so với mực nước biển trên thế giới?",
+      "answers": ["Jericho", "Amsterdam", "Venice", "Baku"],
+      "correctIndex": 0
+    },
+    {
+      "category": 2,
+      "question": "Vùng kinh tế trọng điểm nào của Việt Nam có diện tích nhỏ nhất?",
+      "answers": ["Đông Nam Bộ", "Đồng bằng sông Hồng", "Miền Trung", "Đồng bằng sông Cửu Long"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Hiện tượng 'Đêm trắng' thường xảy ra ở vùng nào?",
+      "answers": ["Xích đạo", "Gần hai cực", "Sa mạc", "Nhiệt đới"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Nước nào không giáp biển trong các nước Đông Nam Á?",
+      "answers": ["Campuchia", "Lào", "Myanmar", "Thái Lan"],
+      "correctIndex": 1
+    },
+    {
+      "category": 2,
+      "question": "Dãy núi nào là ranh giới tự nhiên giữa châu Á và châu Âu?",
+      "answers": ["Dãy Ural", "Dãy Caucasus", "Dãy Alps", "Dãy Atlas"],
+      "correctIndex": 0
+    },
+    {
+      "category": 2,
+      "question": "Hồ nước sâu nhất thế giới là hồ nào?",
+      "answers": ["Hồ Superior", "Hồ Victoria", "Hồ Baikal", "Hồ Caspian"],
+      "correctIndex": 2
+    },
+    {
+      "category": 2,
+      "question": "Quốc gia nào nhỏ nhất thế giới về diện tích?",
+      "answers": ["Monaco", "San Marino", "Vatican", "Nauru"],
+      "correctIndex": 2
+    },
+    {
+      "category": 2,
+      "question": "Tỉnh nào của Việt Nam có đường bờ biển dài nhất?",
+      "answers": ["Quảng Ninh", "Khánh Hòa", "Bình Thuận", "Kiên Giang"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Nước sôi ở bao nhiêu độ C (trong điều kiện áp suất tiêu chuẩn)?",
+      "answers": ["80°C", "90°C", "100°C", "110°C"],
+      "correctIndex": 2
+    },
+    {
+      "category": 3,
+      "question": "Hành tinh nào gần Mặt trời nhất?",
+      "answers": ["Sao Kim", "Sao Thủy", "Sao Hỏa", "Trái Đất"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Động vật nào sau đây là động vật có vú?",
+      "answers": ["Cá mập", "Cá voi", "Cá chép", "Rùa"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Cơ quan nào trong cơ thể người có chức năng lọc máu?",
+      "answers": ["Tim", "Phổi", "Thận", "Dạ dày"],
+      "correctIndex": 2
+    },
+    {
+      "category": 3,
+      "question": "Chất khí nào chiếm tỉ lệ lớn nhất trong không khí?",
+      "answers": ["Oxy", "Nitơ", "Cacbonic", "Hydro"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Ai là người tìm ra Định luật Vạn vật hấp dẫn?",
+      "answers": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Marie Curie"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Cây xanh hấp thụ khí gì và thải ra khí Oxy trong quá trình quang hợp?",
+      "answers": ["Khí Nitơ", "Khí Cacbonic (CO2)", "Khí Metan", "Khí Heli"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Hành tinh nào được gọi là 'Hành tinh đỏ'?",
+      "answers": ["Sao Thổ", "Sao Mộc", "Sao Hỏa", "Sao Hải Vương"],
+      "correctIndex": 2
+    },
+    {
+      "category": 3,
+      "question": "Vitamin nào giúp tăng cường thị lực và có nhiều trong cà rốt?",
+      "answers": ["Vitamin C", "Vitamin D", "Vitamin B12", "Vitamin A"],
+      "correctIndex": 3
+    },
+    {
+      "category": 3,
+      "question": "Kim loại duy nhất ở thể lỏng trong điều kiện thường là?",
+      "answers": ["Sắt", "Vàng", "Thủy ngân", "Đồng"],
+      "correctIndex": 2
+    },
+    {
+      "category": 3,
+      "question": "Tế bào nào trong máu có chức năng tiêu diệt vi khuẩn xâm nhập?",
+      "answers": ["Hồng cầu", "Bạch cầu", "Tiểu cầu", "Huyết tương"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Công thức hóa học của muối ăn là gì?",
+      "answers": ["HCl", "NaOH", "NaCl", "KCl"],
+      "correctIndex": 2
+    },
+    {
+      "category": 3,
+      "question": "Vận tốc ánh sáng xấp xỉ bao nhiêu?",
+      "answers": ["300,000 km/s", "150,000 km/s", "1,000,000 km/s", "30,000 km/s"],
+      "correctIndex": 0
+    },
+    {
+      "category": 3,
+      "question": "Đơn vị đo cường độ dòng điện là gì?",
+      "answers": ["Volt", "Watt", "Ampe", "Ohm"],
+      "correctIndex": 2
+    },
+    {
+      "category": 3,
+      "question": "Nhóm máu nào được gọi là 'nhóm máu chuyên cho'?",
+      "answers": ["Nhóm A", "Nhóm B", "Nhóm AB", "Nhóm O"],
+      "correctIndex": 3
+    },
+    {
+      "category": 3,
+      "question": "Sao Kim có đặc điểm gì đặc biệt so với các hành tinh khác trong hệ Mặt Trời?",
+      "answers": ["Quay ngược chiều kim đồng hồ", "Có sự sống", "Lạnh nhất", "Nhỏ nhất"],
+      "correctIndex": 0
+    },
+    {
+      "category": 3,
+      "question": "Kim cương được cấu tạo từ nguyên tố hóa học nào?",
+      "answers": ["Sắt", "Cacbon", "Silic", "Magiê"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Lực nào giữ Trái Đất quay quanh Mặt Trời?",
+      "answers": ["Lực ma sát", "Lực hướng tâm (Hấp dẫn)", "Lực đẩy", "Lực từ trường"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Thang đo Richter dùng để đo độ mạnh của hiện tượng nào?",
+      "answers": ["Bão", "Sóng thần", "Động đất", "Lốc xoáy"],
+      "correctIndex": 2
+    },
+    {
+      "category": 3,
+      "question": "Cấu trúc ADN có hình dạng gì?",
+      "answers": ["Hình cầu", "Hình thoi", "Xoắn kép", "Hình trụ"],
+      "correctIndex": 2
+    },
+    {
+      "category": 3,
+      "question": "Hiện tượng cầu vồng xuất hiện do hiện tượng vật lý nào?",
+      "answers": ["Khúc xạ và phản xạ ánh sáng", "Giao thoa ánh sáng", "Nhiễu xạ ánh sáng", "Hấp thụ ánh sáng"],
+      "correctIndex": 0
+    },
+    {
+      "category": 3,
+      "question": "Ai là người phụ nữ đầu tiên nhận hai giải Nobel ở hai lĩnh vực khác nhau?",
+      "answers": ["Rosalind Franklin", "Marie Curie", "Jane Goodall", "Tu Youyou"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Độ pH của nước nguyên chất là bao nhiêu?",
+      "answers": ["0", "5", "7", "14"],
+      "correctIndex": 2
+    },
+    {
+      "category": 3,
+      "question": "Hệ tuần hoàn của con người bao gồm những thành phần chính nào?",
+      "answers": ["Tim, phổi, máu", "Tim, mạch máu, máu", "Phổi, dạ dày, gan", "Não, tủy sống, dây thần kinh"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Tàu vũ trụ đầu tiên đưa con người lên Mặt Trăng là tàu nào?",
+      "answers": ["Sputnik 1", "Vostok 1", "Apollo 11", "Challenger"],
+      "correctIndex": 2
+    },
+    {
+      "category": 3,
+      "question": "Phản ứng nhiệt hạch trên Mặt Trời là sự kết hợp của các hạt nhân nguyên tố nào?",
+      "answers": ["Heli", "Hydro", "Oxy", "Cacbon"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Thành phần chính của mặt trời là gì?",
+      "answers": ["Chất lỏng cực nóng", "Khí Hydro và Heli", "Đá và kim loại", "Băng giá"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Lớp nào của khí quyển chứa tầng Ozone giúp bảo vệ Trái Đất?",
+      "answers": ["Tầng đối lưu", "Tầng bình lưu", "Tầng trung lưu", "Tầng nhiệt"],
+      "correctIndex": 1
+    },
+    {
+      "category": 3,
+      "question": "Định luật bảo toàn năng lượng phát biểu rằng?",
+      "answers": ["Năng lượng có thể tự sinh ra", "Năng lượng có thể bị mất đi", "Năng lượng không tự sinh ra cũng không tự mất đi", "Năng lượng luôn không đổi ở mọi vật"],
+      "correctIndex": 2
+    },
+    {
+      "category": 3,
+      "question": "Hạt hạ nguyên tử nào mang điện tích dương?",
+      "answers": ["Electron", "Neutron", "Proton", "Quark"],
+      "correctIndex": 2
+    },
+    {
+      "category": 4,
+      "question": "What is the opposite of 'Big'?",
+      "answers": ["Tall", "Small", "Huge", "Long"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "Which word is a fruit?",
+      "answers": ["Carrot", "Apple", "Potato", "Onion"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "How do you say 'Xin chào' in English?",
+      "answers": ["Goodbye", "Thank you", "Hello", "Sorry"],
+      "correctIndex": 2
+    },
+    {
+      "category": 4,
+      "question": "Choose the correct plural form: 'One cat, two ____'.",
+      "answers": ["Cats", "Cates", "Caties", "Cata"],
+      "correctIndex": 0
+    },
+    {
+      "category": 4,
+      "question": "Which color do you get by mixing Blue and Yellow?",
+      "answers": ["Red", "Purple", "Green", "Orange"],
+      "correctIndex": 2
+    },
+    {
+      "category": 4,
+      "question": "What is the past tense of 'Go'?",
+      "answers": ["Goes", "Goed", "Went", "Gone"],
+      "correctIndex": 2
+    },
+    {
+      "category": 4,
+      "question": "Complete the sentence: 'She ____ a doctor.'",
+      "answers": ["am", "is", "are", "be"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "Which of these is a 'Verb' (động từ)?",
+      "answers": ["Beautiful", "Happiness", "Run", "Quickly"],
+      "correctIndex": 2
+    },
+    {
+      "category": 4,
+      "question": "What time is it if it's 'a quarter past eight'?",
+      "answers": ["8:15", "8:30", "8:45", "9:15"],
+      "correctIndex": 0
+    },
+    {
+      "category": 4,
+      "question": "Identify the 'Odd one out' (Từ khác loại):",
+      "answers": ["Sunday", "Monday", "July", "Friday"],
+      "correctIndex": 2
+    },
+    {
+      "category": 4,
+      "question": "Choose the correct article: 'I have ___ umbrella.'",
+      "answers": ["a", "an", "the", "some"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "What is the synonym of 'Happy'?",
+      "answers": ["Sad", "Joyful", "Angry", "Tired"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "Complete the sentence: 'They ____ football every Sunday.'",
+      "answers": ["plays", "play", "playing", "played"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "Which country is 'London' the capital of?",
+      "answers": ["USA", "Australia", "England", "Canada"],
+      "correctIndex": 2
+    },
+    {
+      "category": 4,
+      "question": "What does 'DIY' stand for?",
+      "answers": ["Do It Yourself", "Done In Year", "Drive It Yourself", "Do In Yesterday"],
+      "correctIndex": 0
+    },
+    {
+      "category": 4,
+      "question": "Which word is spelled correctly?",
+      "answers": ["Beleive", "Believe", "Belive", "Beleeve"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "Choose the correct preposition: 'The book is ___ the table.'",
+      "answers": ["in", "on", "at", "to"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "What is the comparative form of 'Good'?",
+      "answers": ["Gooder", "Better", "Best", "More good"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "Which of these is used for 'Future Tense'?",
+      "answers": ["Will", "Did", "Have", "Was"],
+      "correctIndex": 0
+    },
+    {
+      "category": 4,
+      "question": "What is the female of 'King'?",
+      "answers": ["Princess", "Queen", "Lady", "Duchess"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "Complete the idiom: 'Piece of ____' (something very easy).",
+      "answers": ["bread", "cake", "candy", "pie"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "Which word means 'A person who travels to space'?",
+      "answers": ["Pilot", "Astronaut", "Scientist", "Driver"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "Identify the silent letter in 'Knowledge':",
+      "answers": ["K", "n", "w", "e"],
+      "correctIndex": 0
+    },
+    {
+      "category": 4,
+      "question": "Choose the correct form: 'If I ___ you, I would go.'",
+      "answers": ["am", "was", "were", "be"],
+      "correctIndex": 2
+    },
+    {
+      "category": 4,
+      "question": "What is the antonym of 'Generous'?",
+      "answers": ["Kind", "Selfish", "Rich", "Polite"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "What does 'Break a leg' mean?",
+      "answers": ["Good luck", "Bad luck", "Get hurt", "Run fast"],
+      "correctIndex": 0
+    },
+    {
+      "category": 4,
+      "question": "Which suffix is used to make the word 'Develop' a noun?",
+      "answers": ["-ing", "-ment", "-tion", "-ness"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "Identify the 'Adverb' in: 'He speaks English fluently.'",
+      "answers": ["He", "speaks", "English", "fluently"],
+      "correctIndex": 3
+    },
+    {
+      "category": 4,
+      "question": "What is the meaning of 'Once in a blue moon'?",
+      "answers": ["Very often", "Rarely", "Every night", "In the morning"],
+      "correctIndex": 1
+    },
+    {
+      "category": 4,
+      "question": "Which tense is used in: 'I have been living here for 5 years'?",
+      "answers": ["Present Simple", "Present Perfect", "Present Perfect Continuous", "Past Perfect"],
+      "correctIndex": 2
+    },
+    {
+      "category": 5,
+      "question": "Trong phim 'The Lion King', chú sư tử nhỏ tên là gì?",
+      "answers": ["Scar", "Simba", "Mufasa", "Timon"],
+      "correctIndex": 1
+    },
+    {
+      "category": 5,
+      "question": "Siêu anh hùng nào được gọi là 'Người Sắt'?",
+      "answers": ["Steve Rogers", "Bruce Banner", "Tony Stark", "Thor"],
+      "correctIndex": 2
+    },
+    {
+      "category": 5,
+      "question": "Ai là đạo diễn của bộ phim 'Titanic' và 'Avatar'?",
+      "answers": ["Steven Spielberg", "Christopher Nolan", "James Cameron", "Quentin Tarantino"],
+      "correctIndex": 2
+    },
+    {
+      "category": 5,
+      "question": "Điệp viên 007 có tên thật là gì?",
+      "answers": ["Ethan Hunt", "James Bond", "Jason Bourne", "John Wick"],
+      "correctIndex": 1
+    },
+    {
+      "category": 5,
+      "question": "Bộ phim nào có sự xuất hiện của các chú lùn: Dopey, Grumpy và Sleepy?",
+      "answers": ["Lọ Lem", "Nàng Bạch Tuyết", "Người đẹp và Quái vật", "Công chúa ngủ trong rừng"],
+      "correctIndex": 1
+    },
+    {
+      "category": 5,
+      "question": "Trong vũ trụ Marvel, chiếc khiên của Captain America được làm từ kim loại gì?",
+      "answers": ["Adamantium", "Vibranium", "Kryptonite", "Titan"],
+      "correctIndex": 1
+    },
+    {
+      "category": 5,
+      "question": "Hãng phim nào có biểu tượng là một chú chuột?",
+      "answers": ["Warner Bros", "Universal", "Disney", "Paramount"],
+      "correctIndex": 2
+    },
+    {
+      "category": 5,
+      "question": "Bộ phim hoạt hình nào kể về hành trình của một chú cá hề đi tìm con?",
+      "answers": ["Finding Nemo", "Shark Tale", "The Little Mermaid", "Moana"],
+      "correctIndex": 0
+    },
+    {
+      "category": 5,
+      "question": "Giải thưởng điện ảnh cao quý nhất thế giới được trao hàng năm tại Mỹ là gì?",
+      "answers": ["Grammy", "Oscar", "Golden Globe", "Emmy"],
+      "correctIndex": 1
+    },
+    {
+      "category": 5,
+      "question": "Trong 'Harry Potter', ngôi trường mà Harry theo học tên là gì?",
+      "answers": ["Hogwarts", "Azkaban", "Grimmauld", "Godric"],
+      "correctIndex": 0
+    },
+    {
+      "category": 5,
+      "question": "Bộ phim nào giữ kỷ lục doanh thu cao nhất mọi thời đại (tính đến năm 2023)?",
+      "answers": ["Avengers: Endgame", "Titanic", "Avatar", "Star Wars"],
+      "correctIndex": 2
+    },
+    {
+      "category": 5,
+      "question": "Diễn viên nào thủ vai 'Cướp biển vùng Caribbean' Jack Sparrow?",
+      "answers": ["Brad Pitt", "Tom Cruise", "Johnny Depp", "Leonardo DiCaprio"],
+      "correctIndex": 2
+    },
+    {
+      "category": 5,
+      "question": "Phim 'Ký sinh trùng' (Parasite) là bộ phim của quốc gia nào?",
+      "answers": ["Nhật Bản", "Trung Quốc", "Hàn Quốc", "Việt Nam"],
+      "correctIndex": 2
+    },
+    {
+      "category": 5,
+      "question": "Trong phim 'Bố già' (The Godfather), gia đình tội phạm này mang họ gì?",
+      "answers": ["Corleone", "Soprano", "Capone", "Luciano"],
+      "correctIndex": 0
+    },
+    {
+      "category": 5,
+      "question": "Vũ trụ điện ảnh DC có siêu anh hùng nào sau đây?",
+      "answers": ["Spider-Man", "Batman", "Iron Man", "Black Panther"],
+      "correctIndex": 1
+    },
+    {
+      "category": 5,
+      "question": "Bộ phim nào có câu thoại nổi tiếng: 'I'll be back'?",
+      "answers": ["Rambo", "Terminator", "Die Hard", "Predator"],
+      "correctIndex": 1
+    },
+    {
+      "category": 5,
+      "question": "Tác phẩm nào đoạt giải Phim hay nhất tại Oscar 2024?",
+      "answers": ["Barbie", "Oppenheimer", "Poor Things", "The Holdovers"],
+      "correctIndex": 1
+    },
+    {
+      "category": 5,
+      "question": "Diễn viên Việt Nam nào đóng vai chính trong bộ phim 'Người tình' (L'Amant)?",
+      "answers": ["Lê Khanh", "Lương Gia Huy", "Quách Thu Phương", "Không có diễn viên VN đóng chính"],
+      "correctIndex": 3
+    },
+    {
+      "category": 5,
+      "question": "Trong phim hoạt hình 'Toy Story', Woody là món đồ chơi gì?",
+      "answers": ["Cảnh sát vũ trụ", "Cao bồi", "Khủng long", "Xe đua"],
+      "correctIndex": 1
+    },
+    {
+      "category": 5,
+      "question": "Đâu là bộ phim đầu tiên có âm thanh trong lịch sử điện ảnh?",
+      "answers": ["The Jazz Singer", "Gone with the Wind", "Citizen Kane", "Metropolis"],
+      "correctIndex": 0
+    },
+    {
+      "category": 5,
+      "question": "Vị đạo diễn nào được mệnh danh là 'Bậc thầy kinh dị' (Master of Suspense)?",
+      "answers": ["Alfred Hitchcock", "Stanley Kubrick", "Wes Craven", "John Carpenter"],
+      "correctIndex": 0
+    },
+    {
+      "category": 5,
+      "question": "Trong phim 'Inception', vật dùng để kiểm tra thực tại của Cobb là gì?",
+      "answers": ["Quân bài", "Con quay", "Đồng xu", "Chiếc nhẫn"],
+      "correctIndex": 1
+    },
+    {
+      "category": 5,
+      "question": "Phim 'Tôi thấy hoa vàng trên cỏ xanh' được chuyển thể từ truyện của ai?",
+      "answers": ["Nguyễn Nhật Ánh", "Nam Cao", "Tô Hoài", "Bảo Ninh"],
+      "correctIndex": 0
+    },
+    {
+      "category": 5,
+      "question": "Ngôi sao nào được gắn trên Đại lộ Danh vọng sớm nhất trong số các lựa chọn này?",
+      "answers": ["Mickey Mouse", "Charlie Chaplin", "Marilyn Monroe", "Joanne Woodward"],
+      "correctIndex": 3
+    },
+    {
+      "category": 5,
+      "question": "Phim điện ảnh Việt Nam nào đạt doanh thu cao nhất mọi thời đại?",
+      "answers": ["Bố Già", "Nhà Bà Nữ", "Mai", "Lật Mặt 7"],
+      "correctIndex": 2
+    },
+    {
+      "category": 5,
+      "question": "Trong 'Chúa tể những chiếc nhẫn', nhân vật nào giữ chiếc nhẫn quyền lực?",
+      "answers": ["Gandalf", "Aragorn", "Frodo Baggins", "Legolas"],
+      "correctIndex": 2
+    },
+    {
+      "category": 5,
+      "question": "Tên của con tàu trong phim 'Interstellar' là gì?",
+      "answers": ["Endurance", "Enterprise", "Discovery", "Millennium Falcon"],
+      "correctIndex": 0
+    },
+    {
+      "category": 5,
+      "question": "Diễn viên nào giữ kỷ lục thắng nhiều giải Oscar cho 'Nam diễn viên chính xuất sắc nhất' nhất?",
+      "answers": ["Tom Hanks", "Jack Nicholson", "Daniel Day-Lewis", "Meryl Streep"],
+      "correctIndex": 2
+    },
+    {
+      "category": 5,
+      "question": "Kỹ thuật quay phim 'Bullet time' (né đạn) nổi tiếng trong bộ phim nào?",
+      "answers": ["The Matrix", "John Wick", "Mission Impossible", "Fast & Furious"],
+      "correctIndex": 0
+    },
+    {
+      "category": 5,
+      "question": "Bộ phim hoạt hình dài đầu tiên của xưởng phim Ghibli là?",
+      "answers": ["Spirited Away", "My Neighbor Totoro", "Castle in the Sky", "Grave of the Fireflies"],
+      "correctIndex": 2
+    },
+     
+    {
+      "category": 6,
+      "question": "Trong âm nhạc, nốt nhạc nào cao hơn nốt 'Đồ' một quãng 2?",
+      "answers": ["Rê", "Mi", "Pha", "Son"],
+      "correctIndex": 0
+    },
+    {
+      "category": 6,
+      "question": "Nhạc cụ nào sau đây thuộc bộ dây?",
+      "answers": ["Sáo", "Trống", "Đàn bầu", "Kèn Trumpet"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Ca khúc 'Tiến quân ca' do nhạc sĩ nào sáng tác?",
+      "answers": ["Trịnh Công Sơn", "Phạm Tuyên", "Văn Cao", "Lưu Hữu Phước"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Ban nhạc huyền thoại 'The Beatles' đến từ quốc gia nào?",
+      "answers": ["Mỹ", "Đức", "Anh", "Pháp"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Ai được mệnh danh là 'Ông hoàng nhạc Pop'?",
+      "answers": ["Elvis Presley", "Michael Jackson", "Justin Bieber", "Freddie Mercury"],
+      "correctIndex": 1
+    },
+    {
+      "category": 6,
+      "question": "Đàn Piano có bao nhiêu phím (trắng và đen) tiêu chuẩn?",
+      "answers": ["76", "85", "88", "92"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Nữ ca sĩ nào được mệnh danh là 'Họa mi tóc nâu' của Việt Nam?",
+      "answers": ["Hồ Ngọc Hà", "Mỹ Tâm", "Thu Minh", "Hồng Nhung"],
+      "correctIndex": 1
+    },
+    {
+      "category": 6,
+      "question": "Dòng nhạc nào có nguồn gốc từ các cộng đồng người Mỹ gốc Phi ở New Orleans?",
+      "answers": ["Rock", "Jazz", "Pop", "Country"],
+      "correctIndex": 1
+    },
+    {
+      "category": 6,
+      "question": "Ca khúc 'Despacito' thuộc ngôn ngữ nào?",
+      "answers": ["Tiếng Pháp", "Tiếng Ý", "Tiếng Tây Ban Nha", "Tiếng Bồ Đào Nha"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Nhà soạn nhạc Beethoven là người nước nào?",
+      "answers": ["Áo", "Đức", "Nga", "Ý"],
+      "correctIndex": 1
+    },
+    {
+      "category": 6,
+      "question": "Lễ hội âm nhạc 'Coachella' diễn ra tại bang nào của Mỹ?",
+      "answers": ["New York", "Florida", "California", "Texas"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "K-Pop là tên gọi chung cho nền âm nhạc của quốc gia nào?",
+      "answers": ["Trung Quốc", "Nhật Bản", "Hàn Quốc", "Thái Lan"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Ký hiệu 'f' (forte) trong bản nhạc có nghĩa là gì?",
+      "answers": ["Hát nhỏ", "Hát to", "Hát nhanh", "Hát chậm"],
+      "correctIndex": 1
+    },
+    {
+      "category": 6,
+      "question": "Đâu là bài hát có lượt xem cao nhất YouTube (tính đến năm 2024)?",
+      "answers": ["Despacito", "Baby Shark Dance", "Shape of You", "Gangnam Style"],
+      "correctIndex": 1
+    },
+    {
+      "category": 6,
+      "question": "Ca sĩ Taylor Swift nổi tiếng với dòng nhạc nào khi mới bắt đầu sự nghiệp?",
+      "answers": ["Rock", "Jazz", "Country", "Hip-hop"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Trong một dàn nhạc giao hưởng, nhạc cụ nào thường làm nhiệm vụ lấy âm chuẩn?",
+      "answers": ["Piano", "Violon", "Oboe", "Sáo"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Nhóm nhạc ABBA đến từ quốc gia nào?",
+      "answers": ["Thụy Điển", "Na Uy", "Đan Mạch", "Phần Lan"],
+      "correctIndex": 0
+    },
+    {
+      "category": 6,
+      "question": "Nhạc sĩ nào được mệnh danh là 'Thần đồng âm nhạc'?",
+      "answers": ["Bach", "Mozart", "Chopin", "Liszt"],
+      "correctIndex": 1
+    },
+    {
+      "category": 6,
+      "question": "Đàn Guitar có bao nhiêu dây tiêu chuẩn?",
+      "answers": ["4 dây", "5 dây", "6 dây", "12 dây"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Ai là tác giả của 'Diễm xưa' và 'Hạ trắng'?",
+      "answers": ["Lam Phương", "Trịnh Công Sơn", "Phạm Duy", "Ngô Thụy Miên"],
+      "correctIndex": 1
+    },
+    {
+      "category": 6,
+      "question": "Nốt nhạc nào nằm trên dòng kẻ thứ 2 của khóa Sol?",
+      "answers": ["Đồ", "Mi", "Son", "Si"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Giải thưởng âm nhạc danh giá nhất thế giới là giải nào?",
+      "answers": ["Oscar", "Emmy", "Grammy", "Tony"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Ca sĩ nào được mệnh danh là 'Nữ hoàng nhạc Rock 'n' Roll'?",
+      "answers": ["Aretha Franklin", "Tina Turner", "Madonna", "Whitney Houston"],
+      "correctIndex": 1
+    },
+    {
+      "category": 6,
+      "question": "Một bản giao hưởng (Symphony) thường có bao nhiêu chương?",
+      "answers": ["2 chương", "3 chương", "4 chương", "5 chương"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Nhạc cụ nào được coi là 'Vua của các loại nhạc cụ'?",
+      "answers": ["Violon", "Piano", "Organ ống", "Cello"],
+      "correctIndex": 1
+    },
+    {
+      "category": 6,
+      "question": "Nhóm nhạc nữ nào có ca khúc 'DDU-DU DDU-DU' nổi tiếng?",
+      "answers": ["Twice", "Red Velvet", "Blackpink", "Aespa"],
+      "correctIndex": 2
+    },
+    {
+      "category": 6,
+      "question": "Nhà soạn nhạc nào vẫn sáng tác dù bị điếc hoàn toàn ở cuối đời?",
+      "answers": ["Bach", "Beethoven", "Vivaldi", "Schubert"],
+      "correctIndex": 1
+    },
+    {
+      "category": 6,
+      "question": "Thể loại nhạc 'EDM' là viết tắt của từ gì?",
+      "answers": ["Electronic Dance Music", "Every Day Music", "Easy Dance Mix", "Electro Digital Music"],
+      "correctIndex": 0
+    },
+    {
+      "category": 6,
+      "question": "Đàn T’rưng là nhạc cụ đặc trưng của vùng nào ở Việt Nam?",
+      "answers": ["Tây Bắc", "Tây Nguyên", "Đồng bằng sông Cửu Long", "Miền Trung"],
+      "correctIndex": 1
+    },
+    {
+      "category": 6,
+      "question": "Thuật ngữ 'A cappella' có nghĩa là gì?",
+      "answers": ["Hát với dàn nhạc", "Hát không có nhạc đệm", "Hát đồng ca", "Hát opera"],
+      "correctIndex": 1
+    },
+    {
+      "category": 7,
+      "question": "Một trận bóng đá thông thường (không tính bù giờ) kéo dài bao nhiêu phút?",
+      "answers": ["45 phút", "60 phút", "90 phút", "120 phút"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Môn thể thao nào được gọi là 'Môn thể thao vua'?",
+      "answers": ["Bóng rổ", "Quần vợt", "Bóng đá", "Cầu lông"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Trong bóng rổ, một cú ném phạt trực tiếp được tính bao nhiêu điểm?",
+      "answers": ["1 điểm", "2 điểm", "3 điểm", "4 điểm"],
+      "correctIndex": 0
+    },
+    {
+      "category": 7,
+      "question": "Giải vô địch bóng đá thế giới (World Cup) được tổ chức mấy năm một lần?",
+      "answers": ["2 năm", "3 năm", "4 năm", "5 năm"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Cầu thủ nào được mệnh danh là 'Vua bóng đá'?",
+      "answers": ["Diego Maradona", "Lionel Messi", "Cristiano Ronaldo", "Pelé"],
+      "correctIndex": 3
+    },
+    {
+      "category": 7,
+      "question": "Đại hội Thể thao Đông Nam Á có tên viết tắt là gì?",
+      "answers": ["ASIAD", "SEA Games", "Olympic", "V-League"],
+      "correctIndex": 1
+    },
+    {
+      "category": 7,
+      "question": "Vận động viên Usain Bolt nổi tiếng ở môn thể thao nào?",
+      "answers": ["Bơi lội", "Điền kinh", "Nhảy cao", "Đua xe"],
+      "correctIndex": 1
+    },
+    {
+      "category": 7,
+      "question": "Trong tennis, điểm số ngay sau 40 là gì (nếu thắng thêm 1 điểm nữa)?",
+      "answers": ["45", "50", "Game", "Deuce"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Môn thể thao nào sử dụng quả cầu lông?",
+      "answers": ["Tennis", "Bóng bàn", "Cầu lông", "Golf"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Đội tuyển bóng đá nào giành chức vô địch World Cup 2022?",
+      "answers": ["Pháp", "Brazil", "Argentina", "Đức"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Mỗi đội bóng chuyền trên sân thi đấu chính thức có bao nhiêu người?",
+      "answers": ["5 người", "6 người", "7 người", "11 người"],
+      "correctIndex": 1
+    },
+    {
+      "category": 7,
+      "question": "Kình ngư Michael Phelps nổi tiếng với môn thể thao nào?",
+      "answers": ["Bơi lội", "Lặn", "Chèo thuyền", "Lướt ván"],
+      "correctIndex": 0
+    },
+    {
+      "category": 7,
+      "question": "Quốc gia nào là quê hương của môn võ Judo?",
+      "answers": ["Trung Quốc", "Hàn Quốc", "Nhật Bản", "Thái Lan"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Đường chạy marathon tiêu chuẩn dài bao nhiêu km?",
+      "answers": ["21.09 km", "42.195 km", "50 km", "10 km"],
+      "correctIndex": 1
+    },
+    {
+      "category": 7,
+      "question": "Biểu tượng Olympic có bao nhiêu vòng tròn đan xen nhau?",
+      "answers": ["3", "4", "5", "6"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Cầu thủ Lionel Messi là người nước nào?",
+      "answers": ["Tây Ban Nha", "Bồ Đào Nha", "Argentina", "Uruguay"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Giải đua xe công thức 1 có tên viết tắt là gì?",
+      "answers": ["F1", "GP", "NASCAR", "MotoGP"],
+      "correctIndex": 0
+    },
+    {
+      "category": 7,
+      "question": "Vận động viên nào giữ kỷ lục giành nhiều huy chương vàng Olympic nhất lịch sử Việt Nam?",
+      "answers": ["Hoàng Xuân Vinh", "Nguyễn Thị Ánh Viên", "Lý Đức", "Thạch Kim Tuấn"],
+      "correctIndex": 0
+    },
+    {
+      "category": 7,
+      "question": "Môn thể thao nào thi đấu trên hố cát và có thuật ngữ 'Hole-in-one'?",
+      "answers": ["Bóng chuyền bãi biển", "Golf", "Nhảy xa", "Bóng chày"],
+      "correctIndex": 1
+    },
+    {
+      "category": 7,
+      "question": "Trong bóng đá, nếu cầu thủ nhận 2 thẻ vàng trong một trận đấu thì sẽ bị gì?",
+      "answers": ["Phạt tiền", "Thay người", "Thẻ đỏ và truất quyền thi đấu", "Cảnh cáo"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Võ sĩ Mike Tyson nổi tiếng ở hạng cân nào của môn Quyền Anh?",
+      "answers": ["Hạng nhẹ", "Hạng trung", "Hạng bán trung", "Hạng nặng"],
+      "correctIndex": 3
+    },
+    {
+      "category": 7,
+      "question": "Grand Slam là thuật ngữ dùng cho các giải đấu lớn nhất của môn nào?",
+      "answers": ["Cờ vua", "Quần vợt (Tennis)", "Bóng bàn", "Bóng rổ"],
+      "correctIndex": 1
+    },
+    {
+      "category": 7,
+      "question": "Câu lạc bộ nào giành được nhiều chức vô địch UEFA Champions League (Cúp C1) nhất?",
+      "answers": ["AC Milan", "Liverpool", "Real Madrid", "Barcelona"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Trong môn cờ vua, quân cờ nào có thể đi theo đường chéo và không giới hạn ô?",
+      "answers": ["Quân Mã", "Quân Tượng", "Quân Xe", "Quân Tốt"],
+      "correctIndex": 1
+    },
+    {
+      "category": 7,
+      "question": "Giải quần vợt Wimbledon được thi đấu trên loại mặt sân nào?",
+      "answers": ["Sân đất nện", "Sân cỏ", "Sân cứng", "Sân thảm"],
+      "correctIndex": 1
+    },
+    {
+      "category": 7,
+      "question": "Quốc gia nào đăng cai kỳ Olympic mùa hè đầu tiên của thời hiện đại (1896)?",
+      "answers": ["Pháp", "Anh", "Hy Lạp", "Mỹ"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Cầu thủ Cristiano Ronaldo hiện đang giữ kỷ lục ghi nhiều bàn thắng nhất cho đội tuyển quốc gia nào?",
+      "answers": ["Bồ Đào Nha", "Tây Ban Nha", "Brazil", "Ý"],
+      "correctIndex": 0
+    },
+    {
+      "category": 7,
+      "question": "Trong bóng chày, một đội có bao nhiêu cầu thủ trên sân?",
+      "answers": ["7", "8", "9", "11"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Đội tuyển bóng đá nữ nào giành được nhiều chức vô địch World Cup nhất?",
+      "answers": ["Đức", "Nhật Bản", "Mỹ", "Na Uy"],
+      "correctIndex": 2
+    },
+    {
+      "category": 7,
+      "question": "Môn thể thao 'Tour de France' là cuộc đua của phương tiện nào?",
+      "answers": ["Ô tô", "Mô tô", "Xe đạp", "Thuyền buồm"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Món ăn nào được coi là 'Quốc hồn quốc túy' của Việt Nam?",
+      "answers": ["Bún chả", "Phở", "Bánh xèo", "Cơm tấm"],
+      "correctIndex": 1
+    },
+    {
+      "category": 8,
+      "question": "Thành phần chính của món Kim chi Hàn Quốc thường là gì?",
+      "answers": ["Rau muống", "Cải thảo", "Xà lách", "Su hào"],
+      "correctIndex": 1
+    },
+    {
+      "category": 8,
+      "question": "Bánh Pizza có nguồn gốc từ quốc gia nào?",
+      "answers": ["Pháp", "Mỹ", "Ý", "Đức"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Gia vị nào tạo nên vị cay nồng đặc trưng của mù tạt?",
+      "answers": ["Ớt", "Tiêu", "Wasabi", "Gừng"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Món Sushi nổi tiếng thuộc nền ẩm thực của quốc gia nào?",
+      "answers": ["Trung Quốc", "Hàn Quốc", "Nhật Bản", "Thái Lan"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Để làm bánh chưng, người ta thường dùng loại lá gì để gói?",
+      "answers": ["Lá chuối", "Lá dong", "Lá sen", "Lá dừa"],
+      "correctIndex": 1
+    },
+    {
+      "category": 8,
+      "question": "Thức uống nào được làm từ hạt cà phê?",
+      "answers": ["Trà", "Cacao", "Espresso", "Sữa tươi"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Món 'Vịt quay Bắc Kinh' là đặc sản của quốc gia nào?",
+      "answers": ["Việt Nam", "Thái Lan", "Trung Quốc", "Đài Loan"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Loại quả nào được mệnh danh là 'Vua của các loại trái cây' ở Đông Nam Á?",
+      "answers": ["Măng cụt", "Xoài", "Sầu riêng", "Mít"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Món Tom Yum là món súp đặc trưng của nước nào?",
+      "answers": ["Thái Lan", "Lào", "Campuchia", "Malaysia"],
+      "correctIndex": 0
+    },
+    {
+      "category": 8,
+      "question": "Phô mai được làm từ nguyên liệu chính là gì?",
+      "answers": ["Trứng", "Sữa", "Bột mì", "Đậu nành"],
+      "correctIndex": 1
+    },
+    {
+      "category": 8,
+      "question": "Món 'Cơm tấm' thường đi kèm với bộ ba nguyên liệu nào nổi tiếng nhất?",
+      "answers": ["Sườn, bì, chả", "Gà, cá, tôm", "Thịt kho, trứng, dưa", "Chả giò, lạp xưởng, rau"],
+      "correctIndex": 0
+    },
+    {
+      "category": 8,
+      "question": "Gia vị nào được gọi là 'Vàng trắng' trong lịch sử loài người?",
+      "answers": ["Đường", "Muối", "Tiêu", "Bột ngọt"],
+      "correctIndex": 1
+    },
+    {
+      "category": 8,
+      "question": "Bánh Macaron là loại bánh ngọt tinh tế của nước nào?",
+      "answers": ["Anh", "Pháp", "Bỉ", "Thụy Sĩ"],
+      "correctIndex": 1
+    },
+    {
+      "category": 8,
+      "question": "Cây gia vị nào cung cấp nghệ?",
+      "answers": ["Củ gừng", "Củ nghệ", "Củ riềng", "Củ hành"],
+      "correctIndex": 1
+    },
+    {
+      "category": 8,
+      "question": "Món 'Fish and Chips' là món ăn truyền thống của quốc gia nào?",
+      "answers": ["Mỹ", "Úc", "Anh", "Canada"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Loại nấm nào đắt nhất thế giới?",
+      "answers": ["Nấm hương", "Nấm linh chi", "Nấm Truffle", "Nấm đùi gà"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Rượu Vang được lên men chủ yếu từ loại quả nào?",
+      "answers": ["Táo", "Nho", "Dâu tây", "Mận"],
+      "correctIndex": 1
+    },
+    {
+      "category": 8,
+      "question": "Món 'Dimsum' thường được dùng trong bữa ăn nào của người Trung Hoa?",
+      "answers": ["Bữa sáng/trưa", "Bữa tối", "Bữa khuya", "Bữa phụ"],
+      "correctIndex": 0
+    },
+    {
+      "category": 8,
+      "question": "Nước mắm truyền thống Việt Nam được làm từ hai nguyên liệu chính nào?",
+      "answers": ["Cá và muối", "Tôm và nước", "Đậu nành và đường", "Cua và muối"],
+      "correctIndex": 0
+    },
+    {
+      "category": 8,
+      "question": "Món 'Tapas' là những món khai vị nhỏ nổi tiếng của nước nào?",
+      "answers": ["Bồ Đào Nha", "Tây Ban Nha", "Mexico", "Hy Lạp"],
+      "correctIndex": 1
+    },
+    {
+      "category": 8,
+      "question": "Saffron là gia vị đắt đỏ được lấy từ bộ phận nào của cây nghệ tây?",
+      "answers": ["Rễ", "Lá", "Nhụy hoa", "Cánh hoa"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Món 'Bún bò' nổi tiếng nhất gắn liền với địa danh nào?",
+      "answers": ["Hà Nội", "Đà Nẵng", "Huế", "Sài Gòn"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Tên gọi 'Tofu' trong tiếng Anh dùng để chỉ món ăn nào?",
+      "answers": ["Tào phớ", "Đậu phụ", "Sữa đậu nành", "Chao"],
+      "correctIndex": 1
+    },
+    {
+      "category": 8,
+      "question": "Hạt điều thực chất là bộ phận nào của cây điều?",
+      "answers": ["Quả thật", "Quả giả", "Hạt nằm trong quả", "Rễ"],
+      "correctIndex": 0
+    },
+    {
+      "category": 8,
+      "question": "Pasta 'Carbonara' truyền thống sử dụng loại sốt nào làm cốt lõi?",
+      "answers": ["Sốt cà chua", "Sốt kem tươi", "Trứng và phô mai", "Sốt pesto"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Đâu là quốc gia tiêu thụ nhiều cà phê nhất thế giới (tính theo đầu người)?",
+      "answers": ["Brazil", "Việt Nam", "Phần Lan", "Ý"],
+      "correctIndex": 2
+    },
+    {
+      "category": 8,
+      "question": "Món 'Peking Duck' thường được ăn kèm với loại bánh gì?",
+      "answers": ["Bánh bao", "Bánh tráng/Bánh đa mỏng", "Bánh mì", "Bánh quy"],
+      "correctIndex": 1
+    },
+    {
+      "category": 8,
+      "question": "Kỹ thuật nấu ăn 'Sous-vide' có nghĩa là gì?",
+      "answers": ["Nấu trong chân không", "Nấu trên lửa lớn", "Hấp cách thủy", "Chiên ngập dầu"],
+      "correctIndex": 0
+    },
+    {
+      "category": 8,
+      "question": "Loại trà nào có quy trình sản xuất phức tạp nhất (lên men hoàn toàn)?",
+      "answers": ["Trà xanh", "Trà trắng", "Trà đen", "Trà Ô Long"],
+      "correctIndex": 2
+    },{
+      "category": 9,
+      "question": "Mỗi ngày một người trưởng thành nên uống khoảng bao nhiêu lít nước?",
+      "answers": ["0.5 lít", "1 lít", "2 lít", "5 lít"],
+      "correctIndex": 2
+    },
+    {
+      "category": 9,
+      "question": "Vitamin nào có nhiều trong ánh nắng mặt trời buổi sớm?",
+      "answers": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "correctIndex": 3
+    },
+    {
+      "category": 9,
+      "question": "Bộ phận nào trong cơ thể có nhiệm vụ co bóp để bơm máu đi nuôi cơ thể?",
+      "answers": ["Gan", "Phổi", "Tim", "Thận"],
+      "correctIndex": 2
+    },
+    {
+      "category": 9,
+      "question": "Thực phẩm nào sau đây chứa nhiều Canxi nhất giúp phát triển xương?",
+      "answers": ["Thịt bò", "Sữa", "Rau muống", "Bánh mì"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Đánh răng ít nhất bao nhiêu lần một ngày là tốt nhất cho nha khoa?",
+      "answers": ["1 lần", "2 lần", "4 lần", "Không cần đánh"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Cận thị là tật khúc xạ ở bộ phận nào?",
+      "answers": ["Tai", "Mắt", "Mũi", "Miệng"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Chất nào sau đây là thành phần chính gây ra bệnh tiểu đường nếu dư thừa?",
+      "answers": ["Muối", "Đường", "Chất béo", "Chất xơ"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Cơ quan nào là cơ quan lớn nhất trên cơ thể con người?",
+      "answers": ["Gan", "Phổi", "Da", "Ruột già"],
+      "correctIndex": 2
+    },
+    {
+      "category": 9,
+      "question": "Để giảm cân lành mạnh, chúng ta nên hạn chế ăn nhiều chất nào?",
+      "answers": ["Protein", "Vitamin", "Tinh bột và đường", "Chất xơ"],
+      "correctIndex": 2
+    },
+    {
+      "category": 9,
+      "question": "Khi bị sốt xuất huyết, nguyên nhân chính thường là do con vật nào lây truyền?",
+      "answers": ["Chuột", "Muỗi vằn", "Gián", "Ruồi"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Nhịp tim trung bình của một người trưởng thành khi nghỉ ngơi là bao nhiêu lần/phút?",
+      "answers": ["40-50", "60-100", "120-150", "160-200"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Thiếu Vitamin C thường dẫn đến tình trạng gì?",
+      "answers": ["Quáng gà", "Chảy máu chân răng", "Rụng tóc", "Loãng xương"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Hút thuốc lá là nguyên nhân hàng đầu gây ra bệnh gì?",
+      "answers": ["Đau dạ dày", "Ung thư phổi", "Viêm gan", "Cận thị"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Chỉ số BMI (Body Mass Index) dùng để đo lường điều gì?",
+      "answers": ["Lượng đường trong máu", "Độ cận của mắt", "Tình trạng cân đối của cơ thể", "Nhịp tim"],
+      "correctIndex": 2
+    },
+    {
+      "category": 9,
+      "question": "Loại hạt nào sau đây chứa nhiều chất béo Omega-3 tốt cho não bộ?",
+      "answers": ["Hạt hướng dương", "Hạt óc chó", "Hạt dưa", "Hạt ngô"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Vị trí của gan nằm ở phía nào trong khoang bụng?",
+      "answers": ["Bên trái", "Bên phải", "Chính giữa", "Dưới cùng"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Ngủ đủ bao nhiêu tiếng mỗi đêm là lý tưởng cho sức khỏe người trưởng thành?",
+      "answers": ["4-5 tiếng", "7-8 tiếng", "10-12 tiếng", "Trên 13 tiếng"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Nhóm máu nào được gọi là 'Nhóm máu chuyên nhận'?",
+      "answers": ["Nhóm O", "Nhóm A", "Nhóm B", "Nhóm AB"],
+      "correctIndex": 3
+    },
+    {
+      "category": 9,
+      "question": "Cholesterol cao trong máu chủ yếu ảnh hưởng xấu đến bộ phận nào?",
+      "answers": ["Phổi", "Hệ tim mạch", "Xương khớp", "Hệ tiêu hóa"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Tập thể dục cường độ cao khi bụng quá đói có thể dẫn đến tình trạng gì?",
+      "answers": ["Tăng huyết áp", "Hạ đường huyết", "Tăng cơ nhanh", "Sáng mắt"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Kháng sinh (Antibiotics) dùng để tiêu diệt loại mầm bệnh nào?",
+      "answers": ["Vi-rút", "Vi khuẩn", "Nấm", "Ký sinh trùng"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Bộ phận nào trong tai giúp con người giữ thăng bằng?",
+      "answers": ["Màng nhĩ", "Ống bán khuyên", "Ốc tai", "Vành tai"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Tuyến nào trong cơ thể sản sinh ra Insulin?",
+      "answers": ["Tuyến giáp", "Tuyến tụy", "Tuyến yên", "Tuyến thượng thận"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Axit dạ dày có thành phần chính là gì?",
+      "answers": ["Axit Sunfuric", "Axit Clohydric", "Axit Axetic", "Axit Nitric"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Người bị bệnh Gout (Gút) nên hạn chế ăn thực phẩm nào nhiều nhất?",
+      "answers": ["Rau xanh", "Trái cây", "Hải sản và thịt đỏ", "Ngũ cốc"],
+      "correctIndex": 2
+    },
+    {
+      "category": 9,
+      "question": "Số lượng xương ở một người trưởng thành bình thường là bao nhiêu?",
+      "answers": ["106 chiếc", "206 chiếc", "306 chiếc", "406 chiếc"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Loại chất nào giúp vận chuyển Oxy trong máu?",
+      "answers": ["Huyết tương", "Tiểu cầu", "Hemoglobin", "Bạch cầu"],
+      "correctIndex": 2
+    },
+    {
+      "category": 9,
+      "question": "Tình trạng 'Loãng xương' thường xảy ra do thiếu hụt chất nào?",
+      "answers": ["Sắt", "Canxi", "Kẽm", "Magiê"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Tế bào não sẽ bắt đầu chết nếu không có Oxy sau bao lâu?",
+      "answers": ["1 phút", "4-6 phút", "15 phút", "30 phút"],
+      "correctIndex": 1
+    },
+    {
+      "category": 9,
+      "question": "Đâu là tên gọi của một loại hooc-môn giúp con người cảm thấy hạnh phúc?",
+      "answers": ["Adrenaline", "Dopamine", "Melatonin", "Cortisol"],
+      "correctIndex": 1
+    },
+    {
+      "category": 10,
+      "question": "Thiết bị nào được coi là 'bộ não' của máy tính?",
+      "answers": ["RAM", "Ổ cứng", "CPU", "Màn hình"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "World Wide Web (WWW) được truy cập thông qua phần mềm nào?",
+      "answers": ["Hệ điều hành", "Trình duyệt web", "Phần mềm diệt virus", "Microsoft Office"],
+      "correctIndex": 1
+    },
+    {
+      "category": 10,
+      "question": "Hệ điều hành nào phổ biến nhất trên điện thoại thông minh toàn cầu?",
+      "answers": ["Windows", "Android", "iOS", "Linux"],
+      "correctIndex": 1
+    },
+    {
+      "category": 10,
+      "question": "Mạng xã hội lớn nhất thế giới hiện nay là gì?",
+      "answers": ["Twitter", "TikTok", "Facebook", "Instagram"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Đơn vị đo dung lượng bộ nhớ nhỏ nhất trong các lựa chọn sau là?",
+      "answers": ["Byte", "Kilobyte", "Megabyte", "Gigabyte"],
+      "correctIndex": 0
+    },
+    {
+      "category": 10,
+      "question": "Ký hiệu 'USB' là viết tắt của cụm từ nào?",
+      "answers": ["Universal Serial Bus", "United Serial Box", "User Service Board", "Ultra Speed Boot"],
+      "correctIndex": 0
+    },
+    {
+      "category": 10,
+      "question": "Ai là người sáng lập ra tập đoàn Microsoft?",
+      "answers": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Jeff Bezos"],
+      "correctIndex": 1
+    },
+    {
+      "category": 10,
+      "question": "Phần mềm nào sau đây dùng để soạn thảo văn bản?",
+      "answers": ["Excel", "PowerPoint", "Word", "Access"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Công nghệ kết nối không dây tầm ngắn phổ biến nhất hiện nay là gì?",
+      "answers": ["WiFi", "Bluetooth", "4G", "5G"],
+      "correctIndex": 1
+    },
+    {
+      "category": 10,
+      "question": "Tên miền '.vn' là mã quốc gia của nước nào trên Internet?",
+      "answers": ["Vanuatu", "Venezuela", "Việt Nam", "Vatican"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Trong tin học, RAM là viết tắt của?",
+      "answers": ["Read Access Memory", "Random Access Memory", "Real Access Memory", "Rapid Access Memory"],
+      "correctIndex": 1
+    },
+    {
+      "category": 10,
+      "question": "Công cụ tìm kiếm phổ biến nhất thế giới hiện nay là?",
+      "answers": ["Yahoo", "Bing", "Google", "Baidu"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Tập đoàn công nghệ nào sản xuất dòng iPhone?",
+      "answers": ["Samsung", "Apple", "Huawei", "Xiaomi"],
+      "correctIndex": 1
+    },
+    {
+      "category": 10,
+      "question": "Ký hiệu 'AI' trong công nghệ có nghĩa là gì?",
+      "answers": ["Âm thanh thông minh", "Trí tuệ nhân tạo", "Giao diện ảo", "Mạng nội bộ"],
+      "correctIndex": 1
+    },
+    {
+      "category": 10,
+      "question": "Mật khẩu mạnh thường nên bao gồm các thành phần nào?",
+      "answers": ["Chỉ chữ cái", "Chỉ con số", "Chữ cái, số và ký tự đặc biệt", "Tên và ngày sinh"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Ngôn ngữ lập trình nào thường được dùng để phát triển trang Web?",
+      "answers": ["C++", "Python", "JavaScript", "Assembly"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Công nghệ 'Cloud Computing' có nghĩa là gì?",
+      "answers": ["Máy tính dự báo thời tiết", "Điện toán đám mây", "Mạng máy tính bay", "Hệ thống làm mát máy tính"],
+      "correctIndex": 1
+    },
+    {
+      "category": 10,
+      "question": "Hệ điều hành mã nguồn mở nổi tiếng nhất cho máy tính là?",
+      "answers": ["macOS", "Windows 11", "Linux", "ChromeOS"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Khái niệm 'Phần mềm độc hại' thường được gọi chung là?",
+      "answers": ["Hardware", "Malware", "Firmware", "Shareware"],
+      "correctIndex": 1
+    },
+    {
+      "category": 10,
+      "question": "Công nghệ màn hình điện thoại phổ biến nhất hiện nay cho màu sắc rực rỡ là?",
+      "answers": ["LCD", "CRT", "OLED", "Plasma"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Mã vạch QR Code có hình dạng đặc trưng là gì?",
+      "answers": ["Hình tròn", "Các sọc dọc", "Hình vuông với các ô đen trắng", "Hình tam giác"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Giao thức bảo mật Web thường thấy ở đầu địa chỉ trang web an toàn là?",
+      "answers": ["HTTP", "HTTPS", "FTP", "SMTP"],
+      "correctIndex": 1
+    },
+    {
+      "category": 10,
+      "question": "Công nghệ mạng di động thế hệ thứ 5 có tên gọi là?",
+      "answers": ["3G", "4G LTE", "5G", "Fiber"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Ổ cứng SSD có ưu điểm gì nổi bật so với ổ cứng HDD truyền thống?",
+      "answers": ["Rẻ hơn", "Dung lượng cao hơn", "Tốc độ truy xuất nhanh hơn", "Chạy ồn hơn"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Email đầu tiên được gửi vào thập kỷ nào?",
+      "answers": ["1960s", "1970s", "1980s", "1990s"],
+      "correctIndex": 1
+    },
+    {
+      "category": 10,
+      "question": "Trong Excel, công thức luôn bắt đầu bằng dấu gì?",
+      "answers": ["Dấu cộng (+)", "Dấu gạch ngang (-)", "Dấu bằng (=)", "Dấu nhân (*)"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Thuật ngữ 'Big Data' dùng để chỉ điều gì?",
+      "answers": ["Dữ liệu lớn và phức tạp", "Máy tính có kích thước lớn", "Số lượng ổ cứng nhiều", "Mạng Internet toàn cầu"],
+      "correctIndex": 0
+    },
+    {
+      "category": 10,
+      "question": "Công nghệ Blockchain là nền tảng của loại tài sản nào sau đây?",
+      "answers": ["Tiền giấy", "Vàng miếng", "Tiền điện tử (Cryptocurrency)", "Cổ phiếu vật lý"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Tỷ phú Elon Musk là người sáng lập/điều hành công ty công nghệ nào?",
+      "answers": ["Amazon", "Meta", "Tesla & SpaceX", "Intel"],
+      "correctIndex": 2
+    },
+    {
+      "category": 10,
+      "question": "Linh kiện nào trong máy tính chịu trách nhiệm xử lý đồ họa và hình ảnh?",
+      "answers": ["CPU", "GPU", "Sound Card", "Network Card"],
+      "correctIndex": 1
+    },
+    
+    {
+      "category": 11,
+      "question": "Con gì đập thì sống, không đập thì chết?",
+      "answers": ["Con tim", "Con gà", "Con muỗi", "Con cá"],
+      "correctIndex": 0
+    },
+    {
+      "category": 11,
+      "question": "Cái gì đen khi bạn mua nó, đỏ khi bạn dùng nó và xám xịt khi bạn vứt nó đi?",
+      "answers": ["Sắt", "Than", "Gạch", "Củi"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Bệnh gì bác sĩ bó tay?",
+      "answers": ["Bệnh đau bụng", "Bệnh gãy tay", "Bệnh nan y", "Bệnh nhức đầu"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Cái gì có cổ nhưng không có miệng?",
+      "answers": ["Cái chai", "Cái áo", "Con hươu", "Cả A và B"],
+      "correctIndex": 3
+    },
+    {
+      "category": 11,
+      "question": "Lịch nào dài nhất?",
+      "answers": ["Lịch vạn niên", "Lịch sử", "Lịch treo tường", "Lịch âm"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Con đường nào ngắn nhất?",
+      "answers": ["Đường tắt", "Đường trên bản đồ", "Đường đi bộ", "Đường chỉ tay"],
+      "correctIndex": 3
+    },
+    {
+      "category": 11,
+      "question": "Cái gì càng thâu lại càng dài?",
+      "answers": ["Sợi dây", "Cuộn chỉ", "Cuốn băng video", "Khoảng cách"],
+      "correctIndex": 2
+    },
+    {
+      "category": 11,
+      "question": "Con chuột nào đi bằng hai chân?",
+      "answers": ["Chuột túi", "Chuột Jerry", "Chuột Mickey", "Cả B và C"],
+      "correctIndex": 3
+    },
+    {
+      "category": 11,
+      "question": "Vịt nào đi bằng hai chân?",
+      "answers": ["Vịt Donald", "Vịt bầu", "Tất cả các loài vịt", "Vịt quay"],
+      "correctIndex": 2
+    },
+    {
+      "category": 11,
+      "question": "Cái gì Adam có 2 mà Eva chỉ có 1?",
+      "answers": ["Xương sườn", "Chữ a", "Cái tên", "Con mắt"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Sở thú bị cháy, con gì chạy ra đầu tiên?",
+      "answers": ["Con hổ", "Con chim", "Con người", "Con voi"],
+      "correctIndex": 2
+    },
+    {
+      "category": 11,
+      "question": "Quần rộng nhất là quần gì?",
+      "answers": ["Quần bò", "Quần đảo", "Quần đùi", "Quần ống loe"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Cái gì của chồng mà vợ thích cầm nhất?",
+      "answers": ["Tiền", "Nhẫn cưới", "Điện thoại", "Bàn tay"],
+      "correctIndex": 0
+    },
+    {
+      "category": 11,
+      "question": "Nắng ba năm ta chưa hề bỏ bạn, là cái gì?",
+      "answers": ["Cái nón", "Cái ô", "Cái bóng", "Đôi dép"],
+      "correctIndex": 2
+    },
+    {
+      "category": 11,
+      "question": "Con gì không có xương sống mà vẫn đứng được?",
+      "answers": ["Con giun", "Con ốc sên", "Con đỉa", "Con dốc"],
+      "correctIndex": 3
+    },
+    {
+      "category": 11,
+      "question": "Cái gì càng cất lại càng thấy?",
+      "answers": ["Tiền bạc", "Nhà cửa", "Tiếng nói", "Bí mật"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Làm sao để cái cân tự cân chính nó?",
+      "answers": ["Đặt lên một cái cân khác", "Lật ngược cái cân lại", "Không thể làm được", "Tháo rời linh kiện"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Cái gì bạn không mượn mà vẫn trả?",
+      "answers": ["Tiền nợ", "Lời chào", "Sách vở", "Tình cảm"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Thứ gì chứa nhiều nước nhất mà không hề bị ướt?",
+      "answers": ["Đại dương", "Bản đồ", "Bầu trời", "Cái xô"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Tay trái cầm được cái gì mà tay phải không thể cầm được?",
+      "answers": ["Ly nước", "Tiền", "Khuỷu tay phải", "Cây bút"],
+      "correctIndex": 2
+    },
+    {
+      "category": 11,
+      "question": "Cái gì người mua biết, người bán biết, người dùng không bao giờ biết?",
+      "answers": ["Thuốc ngủ", "Cái quan tài", "Món quà", "Thức ăn"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Có 1 đàn chim đậu trên cành, người thợ săn bắn 'rầm' 1 phát. Hỏi còn mấy con?",
+      "answers": ["Còn 1 con", "Còn 0 con", "Còn 10 con", "Còn xác chim"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Bỏ ngoài nướng trong, ăn ngoài bỏ trong là gì?",
+      "answers": ["Bánh mì", "Bắp ngô", "Củ khoai", "Con gà"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Hoa gì biết ăn, biết nói, biết hát?",
+      "answers": ["Hoa loa kèn", "Hoa hồng", "Hoa hậu", "Hoa hướng dương"],
+      "correctIndex": 2
+    },
+    {
+      "category": 11,
+      "question": "Càng chơi càng ra nước là môn gì?",
+      "answers": ["Bơi lội", "Đá bóng", "Cờ tướng", "Bóng bàn"],
+      "correctIndex": 2
+    },
+    {
+      "category": 11,
+      "question": "Cái gì càng trắng lại càng bẩn?",
+      "answers": ["Tờ giấy", "Cái bảng đen", "Đôi giày", "Quần áo"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Cái gì không cánh mà bay, không chân mà chạy?",
+      "answers": ["Thời gian", "Tiền bạc", "Lời nói", "Đám mây"],
+      "correctIndex": 3
+    },
+    {
+      "category": 11,
+      "question": "Cắm vào run rẩy toàn thân, rút ra nước chảy từ chân xuống sàn. Là cái gì?",
+      "answers": ["Cái tủ lạnh", "Cái máy giặt", "Cái quạt", "Cái điều hòa"],
+      "correctIndex": 0
+    },
+    {
+      "category": 11,
+      "question": "Tại sao sư tử ăn thịt sống?",
+      "answers": ["Vì nó hung dữ", "Vì nó không biết nấu", "Vì thịt sống ngon", "Vì thói quen"],
+      "correctIndex": 1
+    },
+    {
+      "category": 11,
+      "question": "Tháng nào trong năm có 28 ngày?",
+      "answers": ["Tháng 2", "Tháng 4", "Tháng 6", "Tất cả các tháng"],
+      "correctIndex": 3
+    },{
+      "category": 12,
+      "question": "Con vật nào có thể nhìn thấy cả tia hồng ngoại và tử ngoại?",
+      "answers": ["Chó", "Mèo", "Cá vàng", "Đại bàng"],
+      "correctIndex": 2
+    },
+    {
+      "category": 12,
+      "question": "Lưỡi của sinh vật nào dài gấp đôi cơ thể nó?",
+      "answers": ["Ếch", "Tắc kè hoa", "Rắn", "Thằn lằn"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Nước nào có nhiều múi giờ nhất thế giới?",
+      "answers": ["Nga", "Mỹ", "Pháp", "Trung Quốc"],
+      "correctIndex": 2
+    },
+    {
+      "category": 12,
+      "question": "Ốc sên có thể ngủ trong bao lâu nếu điều kiện thời tiết không thuận lợi?",
+      "answers": ["3 ngày", "3 tháng", "3 năm", "10 năm"],
+      "correctIndex": 2
+    },
+    {
+      "category": 12,
+      "question": "Xương nào là xương cứng nhất trong cơ thể người?",
+      "answers": ["Xương đùi", "Xương hàm", "Xương chậu", "Xương sọ"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Động vật nào là động vật duy nhất không thể nhảy?",
+      "answers": ["Tê giác", "Voi", "Hươu cao cổ", "Hà mã"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Dấu vân tay của con vật nào giống con người đến mức khó phân biệt?",
+      "answers": ["Khỉ đột", "Gấu Koala", "Tinh tinh", "Đười ươi"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Trái tim của con vật nào nằm ở trên đầu?",
+      "answers": ["Tôm", "Ốc sên", "Cua", "Mực"],
+      "correctIndex": 0
+    },
+    {
+      "category": 12,
+      "question": "Hành tinh nào trong hệ Mặt trời quay theo chiều ngược lại?",
+      "answers": ["Sao Hỏa", "Sao Thổ", "Sao Kim", "Sao Mộc"],
+      "correctIndex": 2
+    },
+    {
+      "category": 12,
+      "question": "Mắt của con vật nào lớn hơn cả não của nó?",
+      "answers": ["Cá voi", "Đà điểu", "Cú", "Hổ"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Trung bình một người dành bao nhiêu năm cuộc đời để ngủ?",
+      "answers": ["10 năm", "25 năm", "15 năm", "35 năm"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Quốc gia nào không có muỗi?",
+      "answers": ["Thụy Sĩ", "Iceland", "Na Uy", "Nhật Bản"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Tiếng kêu của con vịt có tạo ra tiếng vang (echo) không?",
+      "answers": ["Có", "Không", "Chỉ ở trong hang", "Chỉ ở dưới nước"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Hà mã thường tiết ra chất lỏng màu gì để bảo vệ da?",
+      "answers": ["Trong suốt", "Trắng sữa", "Đỏ", "Xanh lá"],
+      "correctIndex": 2
+    },
+    {
+      "category": 12,
+      "question": "Mỗi bước chân bạn sử dụng bao nhiêu cơ bắp?",
+      "answers": ["50", "100", "200", "500"],
+      "correctIndex": 2
+    },
+    {
+      "category": 12,
+      "question": "Loại thực phẩm nào không bao giờ bị hỏng (hết hạn sử dụng)?",
+      "answers": ["Gạo", "Muối", "Mật ong", "Rượu vang"],
+      "correctIndex": 2
+    },
+    {
+      "category": 12,
+      "question": "Chim hồng hạc có màu hồng là do ăn loại thức ăn nào?",
+      "answers": ["Cá hồi", "Tôm và tảo", "Quả mọng", "San hô"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Lợn không thể làm hành động nào sau đây về mặt thể chất?",
+      "answers": ["Chạy nhanh", "Nhìn lên trời", "Bơi", "Ngủ nằm ngửa"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Con người và quả chuối chia sẻ bao nhiêu % DNA giống nhau?",
+      "answers": ["10%", "30%", "50%", "90%"],
+      "correctIndex": 2
+    },
+    {
+      "category": 12,
+      "question": "Loại vật liệu nào bền hơn thép nếu tính cùng độ dày?",
+      "answers": ["Tơ nhện", "Sợi carbon", "Gốm", "Kevlar"],
+      "correctIndex": 0
+    },
+    {
+      "category": 12,
+      "question": "Tổng trọng lượng của tất cả lũ kiến trên Trái đất xấp xỉ bằng?",
+      "answers": ["1/10 trọng lượng loài người", "Bằng trọng lượng loài người", "Gấp 10 lần loài người", "Bằng một hòn đảo"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Trên Sao Kim, một ngày dài hơn bao lâu?",
+      "answers": ["Một tuần", "Một tháng", "Một năm", "10 năm"],
+      "correctIndex": 2
+    },
+    {
+      "category": 12,
+      "question": "Âm thanh nhanh hơn bao nhiêu lần trong nước so với không khí?",
+      "answers": ["2 lần", "4.3 lần", "10 lần", "Bằng nhau"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Con chuột túi (Kangaroo) sử dụng bộ phận nào để giữ thăng bằng khi nhảy?",
+      "answers": ["Hai chân trước", "Cái đuôi", "Cái túi", "Đôi tai"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Con vật nào có thể sống sót trong môi trường chân không của vũ trụ?",
+      "answers": ["Gián", "Bọ gấu nước (Tardigrade)", "Vi khuẩn", "Kiến đỏ"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Lưỡi của cá voi xanh nặng tương đương với con vật nào?",
+      "answers": ["Một con bò", "Một con voi", "Một con tê giác", "Một con hà mã"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Màu sắc nguyên bản của kim tự tháp Giza là gì?",
+      "answers": ["Vàng cát", "Trắng", "Xám", "Đỏ"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Con vật nào không có trái tim và não?",
+      "answers": ["Sao biển", "Sứa", "Cả A và B", "San hô"],
+      "correctIndex": 2
+    },
+    {
+      "category": 12,
+      "question": "Tên gốc của công ty Google là gì?",
+      "answers": ["Googol", "Backrub", "Alphabet", "SearchCo"],
+      "correctIndex": 1
+    },
+    {
+      "category": 12,
+      "question": "Vạn Lý Trường Thành có thể nhìn thấy từ mặt trăng bằng mắt thường không?",
+      "answers": ["Có", "Không", "Chỉ khi trời nắng", "Chỉ khi có ống nhòm"],
+      "correctIndex": 1
+    },
+    
+
+    
+  {
+    "category": 0,
+    "question": "Trong một tam giác vuông, nếu hai cạnh góc vuông lần lượt là 3 và 4, độ dài cạnh huyền là bao nhiêu?",
+    "answers": ["5", "6", "7", "25"],
+    "correctIndex": 0
+  },
+  {
+    "category": 0,
+    "question": "Số nào sau đây chia hết cho cả 2, 3 và 5?",
+    "answers": ["15", "20", "30", "40"],
+    "correctIndex": 2
+  },
+  {
+    "category": 0,
+    "question": "Giá trị của biểu thức 2 mũ 3 cộng 3 mũ 2 là bao nhiêu?",
+    "answers": ["12", "15", "17", "25"],
+    "correctIndex": 2
+  },
+  {
+    "category": 0,
+    "question": "Số tự nhiên nhỏ nhất có hai chữ số là số nào?",
+    "answers": ["1", "10", "11", "99"],
+    "correctIndex": 1
+  },
+  {
+    "category": 0,
+    "question": "Phân số nào sau đây lớn hơn 1?",
+    "answers": ["1/2", "3/4", "5/4", "4/5"],
+    "correctIndex": 2
+  },
+  {
+    "category": 1,
+    "question": "Ai là người đọc bản Tuyên ngôn Độc lập khai sinh ra nước Việt Nam Dân chủ Cộng hòa?",
+    "answers": ["Võ Nguyên Giáp", "Hồ Chí Minh", "Phạm Văn Đồng", "Trần Phú"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Chiến thắng Điện Biên Phủ lừng lẫy năm châu diễn vào năm nào?",
+    "answers": ["1945", "1954", "1968", "1975"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Vị vua cuối cùng của triều đại phong kiến Việt Nam là ai?",
+    "answers": ["Khải Định", "Hàm Nghi", "Bảo Đại", "Duy Tân"],
+    "correctIndex": 2
+  },
+  {
+    "category": 1,
+    "question": "Thành phố Sài Gòn được chính thức đổi tên thành Thành phố Hồ Chí Minh vào năm nào?",
+    "answers": ["1975", "1976", "1980", "1986"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Triều đại nào trong lịch sử Việt Nam đã ba lần chiến thắng quân Nguyên Mông?",
+    "answers": ["Nhà Lý", "Nhà Lê", "Nhà Trần", "Nhà Nguyễn"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Quốc gia nào có diện tích lớn nhất thế giới?",
+    "answers": ["Trung Quốc", "Hoa Kỳ", "Canada", "Nga"],
+    "correctIndex": 3
+  },
+  {
+    "category": 2,
+    "question": "Sông Mê Kông chảy qua bao nhiêu quốc gia trước khi đổ ra biển?",
+    "answers": ["4", "5", "6", "7"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Đỉnh núi nào được mệnh danh là 'nóc nhà của thế giới'?",
+    "answers": ["Fansipan", "K2", "Everest", "Phú Sĩ"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Hoang mạc lớn nhất thế giới nằm ở châu lục nào?",
+    "answers": ["Châu Á", "Châu Phi", "Châu Úc", "Châu Mỹ"],
+    "correctIndex": 1
+  },
+  {
+    "category": 2,
+    "question": "Thủ đô của nước Nhật Bản là thành phố nào?",
+    "answers": ["Osaka", "Kyoto", "Tokyo", "Hiroshima"],
+    "correctIndex": 2
+  },
+  {
+    "category": 3,
+    "question": "Hành tinh nào gần Mặt Trời nhất?",
+    "answers": ["Sao Hỏa", "Sao Thủy", "Sao Kim", "Trái Đất"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Loại khí nào chiếm tỉ lệ cao nhất trong bầu khí quyển Trái Đất?",
+    "answers": ["Oxy", "Cacbonic", "Nitơ", "Hydro"],
+    "correctIndex": 2
+  },
+  {
+    "category": 3,
+    "question": "Nhóm máu nào được gọi là 'nhóm máu chuyên cho'?",
+    "answers": ["Nhóm A", "Nhóm B", "Nhóm AB", "Nhóm O"],
+    "correctIndex": 3
+  },
+  {
+    "category": 3,
+    "question": "Đơn vị đo cường độ dòng điện là gì?",
+    "answers": ["Vôn (V)", "Ampe (A)", "Oát (W)", "Ôm (Ω)"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Nước sôi ở nhiệt độ bao nhiêu độ C (trong điều kiện áp suất tiêu chuẩn)?",
+    "answers": ["80", "90", "100", "110"],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Từ nào sau đây là danh từ (Noun)?",
+    "answers": ["Beautiful", "Quickly", "Student", "Eat"],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Quá khứ phân từ (V3) của từ 'Go' là gì?",
+    "answers": ["Went", "Going", "Goes", "Gone"],
+    "correctIndex": 3
+  },
+  {
+    "category": 4,
+    "question": "Từ trái nghĩa với 'Generous' (Hào phóng) là từ nào?",
+    "answers": ["Kind", "Stingy", "Happy", "Rich"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Câu nào sau đây chia ở thì Hiện tại tiếp diễn (Present Continuous)?",
+    "answers": ["I play soccer.", "I played soccer.", "I am playing soccer.", "I will play soccer."],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Từ 'Apple' thuộc nhóm chủ đề nào?",
+    "answers": ["Animals", "Fruits", "Colors", "Jobs"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Đạo diễn của bộ phim 'Parasite' (Ký sinh trùng) thắng giải Oscar 2020 là ai?",
+    "answers": ["Park Chan-wook", "Bong Joon-ho", "Lee Chang-dong", "Quentin Tarantino"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Nam diễn viên đóng vai Iron Man trong vũ trụ điện ảnh Marvel là ai?",
+    "answers": ["Chris Evans", "Tom Hiddleston", "Robert Downey Jr.", "Chris Hemsworth"],
+    "correctIndex": 2
+  },
+  {
+    "category": 5,
+    "question": "Bộ phim nào có doanh thu cao nhất mọi thời đại (không tính trượt giá)?",
+    "answers": ["Titanic", "Avatar", "Avengers: Endgame", "Star Wars"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Lễ trao giải điện ảnh danh giá nhất thế giới có tên là gì?",
+    "answers": ["Grammy", "Oscar", "Golden Globe", "Cannes"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Nhân vật chuột Mickey là biểu tượng của hãng phim nào?",
+    "answers": ["Pixar", "DreamWorks", "Warner Bros", "Disney"],
+    "correctIndex": 3
+  },
+  {
+    "category": 6,
+    "question": "Nhạc sĩ nào được mệnh danh là 'Vua nhạc Pop'?",
+    "answers": ["Elvis Presley", "Michael Jackson", "Freddie Mercury", "Justin Bieber"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Nhạc cụ nào sau đây thuộc bộ dây?",
+    "answers": ["Sáo", "Trống", "Guitar", "Kèn Trumpet"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Nốt nhạc nằm giữa nốt Đồ (Do) và nốt Mi (Mi) là nốt nào?",
+    "answers": ["Pha", "Rê", "Sol", "La"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Nhóm nhạc BTS đến từ quốc gia nào?",
+    "answers": ["Nhật Bản", "Trung Quốc", "Hàn Quốc", "Thái Lan"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Ai là tác giả của bản 'Tiến quân ca' (Quốc ca Việt Nam)?",
+    "answers": ["Trịnh Công Sơn", "Phạm Tuyên", "Văn Cao", "Lưu Hữu Phước"],
+    "correctIndex": 2
+  },
+  {
+    "category": 7,
+    "question": "Mỗi hiệp đấu chính thức của một trận bóng đá kéo dài bao nhiêu phút?",
+    "answers": ["30", "45", "60", "90"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Cầu thủ nào giữ kỷ lục đoạt nhiều Quả bóng vàng (Ballon d'Or) nhất lịch sử?",
+    "answers": ["Cristiano Ronaldo", "Pele", "Lionel Messi", "Maradona"],
+    "correctIndex": 2
+  },
+  {
+    "category": 7,
+    "question": "Đại hội Thể thao Đông Nam Á có tên viết tắt là gì?",
+    "answers": ["Asiad", "Olympic", "SEA Games", "World Cup"],
+    "correctIndex": 2
+  },
+  {
+    "category": 7,
+    "question": "Trong môn bóng rổ, một quả ném phạt trực tiếp được tính bao nhiêu điểm?",
+    "answers": ["1", "2", "3", "0"],
+    "correctIndex": 0
+  },
+  {
+    "category": 7,
+    "question": "Kình ngư Nguyễn Thị Ánh Viên nổi tiếng ở môn thể thao nào?",
+    "answers": ["Điền kinh", "Bơi lội", "Bắn súng", "Cầu lông"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Món 'Phở' truyền thống của Việt Nam thường dùng loại bánh làm từ nguyên liệu gì?",
+    "answers": ["Bột mì", "Bột gạo", "Bột năng", "Bột bắp"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Gia vị nào tạo nên vị cay nồng đặc trưng của món Kim chi Hàn Quốc?",
+    "answers": ["Tiêu", "Gừng", "Ớt", "Mù tạt"],
+    "correctIndex": 2
+  },
+  {
+    "category": 8,
+    "question": "Pizza là món ăn nổi tiếng xuất xứ từ quốc gia nào?",
+    "answers": ["Pháp", "Ý", "Mỹ", "Đức"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Loại quả nào được mệnh danh là 'vua của các loại trái cây' ở Đông Nam Á?",
+    "answers": ["Xoài", "Măng cụt", "Sầu riêng", "Nhãn"],
+    "correctIndex": 2
+  },
+  {
+    "category": 8,
+    "question": "Thành phần chính đi kèm với cá trong món Sushi Nhật Bản là gì?",
+    "answers": ["Bún", "Cơm trộn giấm", "Mì sợi", "Bánh tráng"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Để bảo vệ mắt khi dùng máy tính, khoảng cách an toàn từ mắt đến màn hình nên là bao nhiêu?",
+    "answers": ["10-20cm", "30-40cm", "50-70cm", "100cm trở lên"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Loại vitamin nào có nhiều trong cam, chanh giúp tăng sức đề kháng?",
+    "answers": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Mỗi ngày người trưởng thành nên uống trung bình bao nhiêu lít nước?",
+    "answers": ["0.5 lít", "1 lít", "2 lít", "5 lít"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Chỉ số BMI dùng để đánh giá điều gì ở cơ thể người?",
+    "answers": ["Thị lực", "Nhịp tim", "Độ gầy béo", "Trí thông minh"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Thói quen nào sau đây là tốt nhất cho giấc ngủ?",
+    "answers": ["Uống cà phê", "Dùng điện thoại", "Ngủ đúng giờ", "Ăn quá no"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Hệ điều hành Android thuộc sở hữu của công ty nào?",
+    "answers": ["Apple", "Microsoft", "Google", "Samsung"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Trong máy tính, RAM là viết tắt của cụm từ nào?",
+    "answers": ["Read Access Memory", "Random Access Memory", "Real Access Memory", "Run Access Memory"],
+    "correctIndex": 1
+  },
+  {
+    "category": 10,
+    "question": "Mạng xã hội lớn nhất thế giới hiện nay là gì?",
+    "answers": ["Twitter", "Facebook", "Instagram", "LinkedIn"],
+    "correctIndex": 1
+  },
+  {
+    "category": 10,
+    "question": "Ký hiệu 'WWW' trong địa chỉ website có nghĩa là gì?",
+    "answers": ["World Wide Web", "World Wired Web", "Work Wide Web", "World Win Web"],
+    "correctIndex": 0
+  },
+  {
+    "category": 10,
+    "question": "Thiết bị nào sau đây dùng để lưu trữ dữ liệu lâu dài trong máy tính?",
+    "answers": ["CPU", "RAM", "Ổ cứng (HDD/SSD)", "Màn hình"],
+    "correctIndex": 2
+  },
+  {
+    "category": 11,
+    "question": "Cái gì mà bạn càng lấy đi nhiều thì nó lại càng lớn hơn?",
+    "answers": ["Đống cát", "Cái hố", "Con đường", "Kiến thức"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Con chuột nào đi bằng hai chân?",
+    "answers": ["Chuột túi", "Chuột chũi", "Chuột Mickey", "Chuột đồng"],
+    "correctIndex": 2
+  },
+  {
+    "category": 11,
+    "question": "Cái gì có miệng mà không nói, có giường mà không ngủ?",
+    "answers": ["Con sông", "Con búp bê", "Cái ghế", "Cái hang"],
+    "correctIndex": 0
+  },
+  {
+    "category": 11,
+    "question": "Vịt nào thường đi bằng hai chân?",
+    "answers": ["Vịt Donald", "Vịt bầu", "Vịt cỏ", "Tất cả các loài vịt"],
+    "correctIndex": 3
+  },
+  {
+    "category": 11,
+    "question": "Cái gì đen khi bạn mua nó, đỏ khi bạn dùng nó và xám xịt khi vứt nó đi?",
+    "answers": ["Quả táo", "Than đá", "Sắt", "Tờ giấy"],
+    "correctIndex": 1
+  },
+  
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Chim cánh cụt sống chủ yếu ở khu vực nào?",
+    "answers": ["Bắc Cực", "Nam Cực", "Sa mạc Sahara", "Rừng Amazon"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Loại vật liệu nào có thể tái chế vô hạn mà không giảm chất lượng?",
+    "answers": ["Nhựa", "Giấy", "Thủy tinh", "Vải"],
+    "correctIndex": 2
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Bộ phận nào trên cơ thể người không bao giờ ngừng phát triển?",
+    "answers": ["Mắt", "Tai và Mũi", "Tim", "Xương"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Con vật nào sau đây về mặt sinh học không thể nhảy?",
+    "answers": ["Con thỏ", "Con voi", "Con mèo", "Con ếch"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Mật ong tự nhiên có thể để được bao lâu mà không bị hỏng?",
+    "answers": ["1 năm", "10 năm", "100 năm", "Hàng nghìn năm"],
+    "correctIndex": 3
+  },
+
+
+
+
+  {
+    "category": 0,
+    "question": "Trong Toán học, số nào sau đây là số nguyên tố chẵn duy nhất?",
+    "answers": ["0", "2", "4", "6"],
+    "correctIndex": 1
+  },
+  {
+    "category": 0,
+    "question": "Kết quả của phép tính $10% \text{ của } 200$ là bao nhiêu?",
+    "answers": ["10", "15", "20", "25"],
+    "correctIndex": 2
+  },
+  {
+    "category": 0,
+    "question": "Một hình vuông có diện tích là 64 $cm^2$. Chu vi của hình vuông đó là bao nhiêu?",
+    "answers": ["16 cm", "32 cm", "24 cm", "64 cm"],
+    "correctIndex": 1
+  },
+  {
+    "category": 0,
+    "question": "Số nào là kết quả của $2^{10}$?",
+    "answers": ["512", "1000", "1024", "2048"],
+    "correctIndex": 2
+  },
+  {
+    "category": 0,
+    "question": "Trong một giờ, kim phút của đồng hồ quay được một góc bao nhiêu độ?",
+    "answers": ["90°", "180°", "270°", "360°"],
+    "correctIndex": 3
+  },
+  {
+    "category": 1,
+    "question": "Vị vua nào đã ban 'Chiếu dời đô' để chuyển kinh đô về Thăng Long?",
+    "answers": ["Lý Công Uẩn", "Lê Lợi", "Đinh Bộ Lĩnh", "Nguyễn Huệ"],
+    "correctIndex": 0
+  },
+  {
+    "category": 1,
+    "question": "Bức tường Berlin, biểu tượng của Chiến tranh Lạnh, bị sụp đổ vào năm nào?",
+    "answers": ["1975", "1989", "1991", "2000"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Cuộc Cách mạng Công nghiệp lần thứ nhất bắt nguồn từ quốc gia nào?",
+    "answers": ["Pháp", "Đức", "Mỹ", "Anh"],
+    "correctIndex": 3
+  },
+  {
+    "category": 1,
+    "question": "Người đầu tiên bay vào vũ trụ là ai?",
+    "answers": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "Phạm Tuân"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Ai là tác giả của 'Bình Ngô Đại Cáo'?",
+    "answers": ["Trần Hưng Đạo", "Nguyễn Trãi", "Lý Thường Kiệt", "Chu Văn An"],
+    "correctIndex": 1
+  },
+  {
+    "category": 2,
+    "question": "Đại dương nào có diện tích lớn nhất hành tinh?",
+    "answers": ["Đại Tây Dương", "Ấn Độ Dương", "Thái Bình Dương", "Bắc Băng Dương"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Kênh đào nào nối liền Địa Trung Hải và Hồng Hải?",
+    "answers": ["Kênh đào Panama", "Kênh đào Suez", "Kênh đào Corinth", "Kênh đào Kiel"],
+    "correctIndex": 1
+  },
+  {
+    "category": 2,
+    "question": "Quốc gia nào được mệnh danh là 'Xứ sở hoa anh đào'?",
+    "answers": ["Hàn Quốc", "Trung Quốc", "Nhật Bản", "Việt Nam"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Đảo lớn nhất thế giới hiện nay là đảo nào?",
+    "answers": ["Iceland", "Madagascar", "Greenland", "Phú Quốc"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Dòng sông dài nhất thế giới chảy qua châu Phi là sông nào?",
+    "answers": ["Sông Amazon", "Sông Nile", "Sông Mississippi", "Sông Trường Giang"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Ký hiệu hóa học của nguyên tố Vàng là gì?",
+    "answers": ["Ag", "Fe", "Au", "Pb"],
+    "correctIndex": 2
+  },
+  {
+    "category": 3,
+    "question": "Hành tinh nào được gọi là 'Hành tinh xanh' trong hệ Mặt Trời?",
+    "answers": ["Sao Thổ", "Sao Kim", "Trái Đất", "Sao Hải Vương"],
+    "correctIndex": 2
+  },
+  {
+    "category": 3,
+    "question": "Lực hút của Trái Đất tác động lên mọi vật được gọi là gì?",
+    "answers": ["Lực ma sát", "Trọng lực", "Lực đẩy", "Lực đàn hồi"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Con người hít khí Oxy và thải ra loại khí nào chủ yếu?",
+    "answers": ["Nitơ", "Hydro", "Cacbonic (CO2)", "Heli"],
+    "correctIndex": 2
+  },
+  {
+    "category": 3,
+    "question": "Thành phần chính của mặt trời chủ yếu là hai loại khí nào?",
+    "answers": ["Oxy và Nitơ", "Hydro và Heli", "Cacbon và Oxy", "Sắt và Niken"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Trong tiếng Anh, từ nào là từ đồng nghĩa với 'Smart'?",
+    "answers": ["Stupid", "Intelligent", "Slow", "Boring"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Dạng số nhiều của từ 'Child' là gì?",
+    "answers": ["Childs", "Childes", "Children", "Childrens"],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Giới từ nào đi với từ 'interested' trong cụm từ 'quan tâm đến cái gì'?",
+    "answers": ["on", "at", "in", "with"],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Từ 'Bookstore' có nghĩa là gì?",
+    "answers": ["Thư viện", "Nhà sách", "Trường học", "Văn phòng"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Thì nào được dùng để diễn tả một sự thật hiển nhiên?",
+    "answers": ["Hiện tại đơn", "Quá khứ đơn", "Tương lai đơn", "Hiện tại tiếp diễn"],
+    "correctIndex": 0
+  },
+  {
+    "category": 5,
+    "question": "Đạo diễn nổi tiếng với các bộ phim 'Inception' và 'Interstellar' là ai?",
+    "answers": ["Steven Spielberg", "Christopher Nolan", "James Cameron", "Martin Scorsese"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Hãng phim hoạt hình nổi tiếng Nhật Bản với phim 'Vùng đất linh hồn' là gì?",
+    "answers": ["Disney", "Pixar", "Studio Ghibli", "DreamWorks"],
+    "correctIndex": 2
+  },
+  {
+    "category": 5,
+    "question": "Nhân vật điệp viên 007 có tên thật là gì?",
+    "answers": ["Sherlock Holmes", "Ethan Hunt", "James Bond", "Jason Bourne"],
+    "correctIndex": 2
+  },
+  {
+    "category": 5,
+    "question": "Bộ phim nào đoạt giải Oscar cho Phim hay nhất năm 2024?",
+    "answers": ["Barbie", "Oppenheimer", "Poor Things", "The Holdovers"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Ai là người đóng vai Harry Potter trong loạt phim cùng tên?",
+    "answers": ["Tom Felton", "Rupert Grint", "Daniel Radcliffe", "Robert Pattinson"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Nhạc cụ nào thường được gọi là 'Vua của các loại nhạc cụ'?",
+    "answers": ["Violin", "Guitar", "Piano", "Trống"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Dòng nhạc Jazz có nguồn gốc từ quốc gia nào?",
+    "answers": ["Mỹ", "Pháp", "Brazil", "Đức"],
+    "correctIndex": 0
+  },
+  {
+    "category": 6,
+    "question": "Một dàn nhạc giao hưởng tiêu chuẩn được điều khiển bởi ai?",
+    "answers": ["Ca sĩ", "Nhạc công", "Chỉ huy (Conductor)", "Đạo diễn"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Nghệ sĩ nào được mệnh danh là 'Thiên tài âm nhạc' người Áo, tác giả của bản 'Hành khúc Thổ Nhĩ Kỳ'?",
+    "answers": ["Beethoven", "Mozart", "Bach", "Chopin"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Thể loại nhạc 'EDM' là viết tắt của cụm từ nào?",
+    "answers": ["Electronic Dance Music", "Electric Drum Music", "Everyday Disco Music", "Energy Dance Mix"],
+    "correctIndex": 0
+  },
+  {
+    "category": 7,
+    "question": "Giải quần vợt Wimbledon được tổ chức trên loại mặt sân nào?",
+    "answers": ["Sân đất nện", "Sân cỏ", "Sân cứng", "Sân thảm"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Vòng tròn màu vàng trên lá cờ Olympic đại diện cho châu lục nào?",
+    "answers": ["Châu Âu", "Châu Mỹ", "Châu Á", "Châu Phi"],
+    "correctIndex": 2
+  },
+  {
+    "category": 7,
+    "question": "Trong môn bóng chuyền, mỗi đội có bao nhiêu người chơi chính thức trên sân?",
+    "answers": ["5", "6", "7", "11"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Cựu vận động viên Usain Bolt nổi tiếng ở nội dung thi đấu nào?",
+    "answers": ["Bơi lội", "Chạy nước rút", "Nhảy cao", "Ném tạ"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Đội tuyển bóng đá quốc gia nào vô địch World Cup 2022?",
+    "answers": ["Pháp", "Đức", "Argentina", "Brazil"],
+    "correctIndex": 2
+  },
+  {
+    "category": 8,
+    "question": "Gia vị chính để tạo nên độ mặn cho hầu hết các món ăn là gì?",
+    "answers": ["Đường", "Muối", "Tiêu", "Giấm"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Món 'Hamburger' có nguồn gốc tên gọi từ thành phố nào của Đức?",
+    "answers": ["Berlin", "Munich", "Hamburg", "Frankfurt"],
+    "correctIndex": 2
+  },
+  {
+    "category": 8,
+    "question": "Thành phần không thể thiếu trong món 'Kim chi' truyền thống là gì?",
+    "answers": ["Cải thảo", "Xà lách", "Cà rốt", "Su hào"],
+    "correctIndex": 0
+  },
+  {
+    "category": 8,
+    "question": "Loại đồ uống nào được làm từ hạt của một loại quả nhiệt đới, giúp tỉnh táo?",
+    "answers": ["Trà", "Cà phê", "Nước ép", "Sữa"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Món đặc sản 'Bún chả' nổi tiếng nhất ở thành phố nào của Việt Nam?",
+    "answers": ["Huế", "Đà Nẵng", "Hà Nội", "Sài Gòn"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Chất dinh dưỡng nào là nguồn cung cấp năng lượng chính cho não bộ?",
+    "answers": ["Chất đạm", "Chất béo", "Đường bột (Carbohydrate)", "Chất xơ"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Để giữ răng chắc khỏe, bạn nên đánh răng ít nhất bao nhiêu lần một ngày?",
+    "answers": ["1 lần", "2 lần", "3 lần", "4 lần"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Cơ quan nào trong cơ thể có chức năng lọc máu?",
+    "answers": ["Phổi", "Gan", "Thận", "Tim"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Tập thể dục thường xuyên giúp cải thiện sức khỏe của hệ thống nào nhất?",
+    "answers": ["Hệ tiêu hóa", "Hệ tim mạch", "Hệ bài tiết", "Hệ thần kinh"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Loại thực phẩm nào sau đây chứa nhiều chất xơ nhất?",
+    "answers": ["Thịt bò", "Cá", "Rau xanh", "Trứng"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Bộ phận nào được coi là 'bộ não' của máy tính?",
+    "answers": ["RAM", "Ổ cứng", "CPU", "VGA"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Ứng dụng nào sau đây là một trình duyệt web?",
+    "answers": ["Excel", "Photoshop", "Google Chrome", "Spotify"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Đơn vị nhỏ nhất của thông tin trong máy tính là gì?",
+    "answers": ["Byte", "Bit", "KB", "MB"],
+    "correctIndex": 1
+  },
+  {
+    "category": 10,
+    "question": "Công nghệ nào cho phép các thiết bị kết nối internet mà không cần dây dẫn?",
+    "answers": ["Bluetooth", "Wi-Fi", "USB", "Ethernet"],
+    "correctIndex": 1
+  },
+  {
+    "category": 10,
+    "question": "Tên miền '.edu' thường dành cho loại tổ chức nào?",
+    "answers": ["Thương mại", "Chính phủ", "Giáo dục", "Quân sự"],
+    "correctIndex": 2
+  },
+  {
+    "category": 11,
+    "question": "Cái gì có cổ mà không có đầu, có hai cánh tay mà không có bàn tay?",
+    "answers": ["Cái ghế", "Cái áo", "Cái bàn", "Cái chai"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Cái gì luôn đến mà không bao giờ đến nơi?",
+    "answers": ["Cơn mưa", "Ngày mai", "Xe buýt", "Giấc mơ"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Càng nhiều lỗ thì càng giữ được nhiều nước. Đó là cái gì?",
+    "answers": ["Cái rổ", "Miếng bọt biển", "Cái lưới", "Đôi giày"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Cái gì có thể chạy mà không có chân?",
+    "answers": ["Con cá", "Dòng sông", "Chiếc xe", "Cơn gió"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Tay trái cầm được nhưng tay phải không bao giờ cầm được. Đó là cái gì?",
+    "answers": ["Bàn tay phải", "Cái bút", "Khuỷu tay trái", "Cái bát"],
+    "correctIndex": 2
+  },
+  
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Con vật nào sau đây có tới 3 trái tim?",
+    "answers": ["Cá mập", "Bạch tuộc", "Cá voi", "Rùa biển"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Hành tinh nào trong hệ Mặt Trời có một ngày dài hơn một năm của chính nó?",
+    "answers": ["Sao Thủy", "Sao Kim", "Sao Hỏa", "Sao Mộc"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Loại trái cây nào có hạt nằm ở bên ngoài vỏ?",
+    "answers": ["Dưa hấu", "Táo", "Dâu tây", "Xoài"],
+    "correctIndex": 2
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Âm thanh không thể truyền đi trong môi trường nào?",
+    "answers": ["Nước", "Không khí", "Chân không", "Kim loại"],
+    "correctIndex": 2
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Động vật nào có thể nhìn thấy cả bằng mắt khi đang nhắm mắt (qua lớp mí mỏng)?",
+    "answers": ["Lạc đà", "Cá sấu", "Cú mèo", "Rắn"],
+    "correctIndex": 0
+  },
+
+
+
+
+  {
+    "category": 0,
+    "question": "Trong toán học, một số nguyên dương được gọi là 'số hoàn hảo' nếu nó bằng tổng các ước thực sự của nó. Số nào sau đây là số hoàn hảo?",
+    "answers": ["6", "12", "18", "24"],
+    "correctIndex": 0
+  },
+  {
+    "category": 0,
+    "question": "Trong hình học không gian, một hình nhị thập diện đều (Icosahedron) có bao nhiêu mặt là các tam giác đều?",
+    "answers": ["12", "20", "30", "10"],
+    "correctIndex": 1
+  },
+  {
+    "category": 0,
+    "question": "Giá trị của số siêu việt $e$ (hằng số Euler) xấp xỉ bằng bao nhiêu?",
+    "answers": ["2.718", "3.141", "1.618", "1.414"],
+    "correctIndex": 0
+  },
+  {
+    "category": 0,
+    "question": "Định lý cuối cùng của Fermat (Fermat's Last Theorem) đã được nhà toán học nào chứng minh hoàn tất vào năm 1994?",
+    "answers": ["Leonhard Euler", "Alan Turing", "Andrew Wiles", "Blaise Pascal"],
+    "correctIndex": 2
+  },
+  {
+    "category": 0,
+    "question": "Trong hệ thập phân, số 100 viết trong hệ nhị phân (Base-2) là gì?",
+    "answers": ["1100100", "1101100", "1010100", "1110000"],
+    "correctIndex": 0
+  },
+  {
+    "category": 1,
+    "question": "Năm 1453 là cột mốc lịch sử quan trọng với sự sụp đổ của thành phố nào, đánh dấu kết thúc thời kỳ Trung cổ?",
+    "answers": ["Rome", "Constantinople", "Athens", "Alexandria"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Vị hoàng đế nào đã ban hành Bộ luật dân sự nổi tiếng vào năm 1804, có ảnh hưởng sâu rộng đến luật pháp hiện đại thế giới?",
+    "answers": ["Julius Caesar", "Alexander Đại đế", "Napoleon Bonaparte", "Louis XIV"],
+    "correctIndex": 2
+  },
+  {
+    "category": 1,
+    "question": "Trong lịch sử Việt Nam, cuộc khởi nghĩa Lam Sơn do Lê Lợi lãnh đạo chống lại quân xâm lược nào?",
+    "answers": ["Quân Nguyên Mông", "Quân Minh", "Quân Thanh", "Quân Tống"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Hội nghị Yalta (1945) là cuộc gặp gỡ giữa ba cường quốc nào để bàn về trật tự thế giới sau Thế chiến II?",
+    "answers": ["Mỹ, Anh, Pháp", "Mỹ, Anh, Liên Xô", "Anh, Pháp, Liên Xô", "Mỹ, Đức, Nhật"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Nữ hoàng Victoria của Anh đã trị vì vương quốc này trong bao nhiêu năm?",
+    "answers": ["50 năm", "63 năm", "70 năm", "45 năm"],
+    "correctIndex": 1
+  },
+  {
+    "category": 2,
+    "question": "Quốc gia nào sau đây là quốc gia 'không giáp biển kép' (Double-landlocked - bị bao quanh hoàn toàn bởi các quốc gia cũng không giáp biển)?",
+    "answers": ["Mông Cổ", "Thụy Sĩ", "Uzbekistan", "Bolivia"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Rãnh Mariana, nơi sâu nhất của đại dương, nằm ở khu vực nào?",
+    "answers": ["Ấn Độ Dương", "Đại Tây Dương", "Thái Bình Dương", "Bắc Băng Dương"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Hồ nước ngọt có thể tích lớn nhất thế giới, chứa khoảng 20% lượng nước ngọt không đóng băng của bề mặt Trái Đất là hồ nào?",
+    "answers": ["Hồ Superior", "Hồ Victoria", "Hồ Baikal", "Hồ Caspian"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Quần đảo Galapagos, nơi Charles Darwin đã thực hiện các nghiên cứu quan trọng, thuộc chủ quyền của quốc gia nào?",
+    "answers": ["Ecuador", "Peru", "Chile", "Úc"],
+    "correctIndex": 0
+  },
+  {
+    "category": 2,
+    "question": "Điểm cực Nam của lục địa châu Phi có tên gọi chính xác là gì?",
+    "answers": ["Mũi Hảo Vọng", "Mũi Agulhas", "Mũi Horn", "Mũi Đất"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Hạt sơ cấp nào được coi là hạt truyền tương tác của lực hạt nhân mạnh, giữ các quark lại với nhau bên trong proton và neutron?",
+    "answers": ["Photon", "Gluon", "Boson W", "Graviton"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Trong hóa học hữu cơ, hợp chất Benzen ($C_6H_6$) có cấu trúc vòng phẳng được đề xuất đầu tiên bởi nhà khoa học nào?",
+    "answers": ["Mendeleev", "Kekulé", "Dalton", "Lavoisier"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Chu trình Krebs (Chu trình Acid Citric) diễn ra tại bộ phận nào bên trong tế bào nhân thực?",
+    "answers": ["Nhân tế bào", "Lưới nội chất", "Ty thể", "Ribosome"],
+    "correctIndex": 2
+  },
+  {
+    "category": 3,
+    "question": "Định luật thứ ba của Nhiệt động lực học phát biểu rằng thực thể nào sẽ tiến dần về 0 khi nhiệt độ tiến về độ K tuyệt đối ($0$ K)?",
+    "answers": ["Áp suất", "Nội năng", "Entropy", "Thể tích"],
+    "correctIndex": 2
+  },
+  {
+    "category": 3,
+    "question": "Kim loại nào có nhiệt độ nóng chảy cao nhất (khoảng 3422°C)?",
+    "answers": ["Sắt", "Bạch kim", "Vàng", "Wolfram"],
+    "correctIndex": 3
+  },
+  {
+    "category": 4,
+    "question": "Trong tiếng Anh, thuật ngữ nào dùng để chỉ một từ có cách viết giống nhau nhưng ý nghĩa khác nhau (ví dụ: 'Bark' - vỏ cây và 'Bark' - tiếng chó sủa)?",
+    "answers": ["Synonym", "Antonym", "Homograph", "Oxymoron"],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Thì nào được sử dụng trong câu sau: 'By next December, I will have been working here for 10 years'?",
+    "answers": ["Future Perfect", "Future Continuous", "Future Perfect Continuous", "Past Perfect"],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Thành ngữ 'Once in a blue moon' mang nghĩa là gì?",
+    "answers": ["Thường xuyên", "Rất hiếm khi", "Đúng giờ", "Vào ban đêm"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Hậu tố (Suffix) '-phobia' trong tiếng Anh có nguồn gốc từ tiếng Hy Lạp mang nghĩa là gì?",
+    "answers": ["Yêu thích", "Nỗi sợ hãi", "Sự hiểu biết", "Sự đo lường"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Từ nào sau đây là tính từ có nghĩa là 'có mặt khắp mọi nơi'?",
+    "answers": ["Ambiguous", "Ubiquitous", "Ephemeral", "Luminous"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Đạo diễn nào đã thực hiện bộ phim kinh điển 'Seven Samurai' (Bảy tay súng oai hùng), gây ảnh hưởng lớn đến điện ảnh thế giới?",
+    "answers": ["Yasujiro Ozu", "Akira Kurosawa", "Hayao Miyazaki", "Takeshi Kitano"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Thuật ngữ 'Auteur theory' (Thuyết tác giả) trong điện ảnh nhấn mạnh vai trò sáng tạo tối cao của ai đối với một bộ phim?",
+    "answers": ["Biên kịch", "Nhà sản xuất", "Đạo diễn", "Diễn viên chính"],
+    "correctIndex": 2
+  },
+  {
+    "category": 5,
+    "question": "Bộ phim nào là phim điện ảnh đầu tiên trong lịch sử có sử dụng âm thanh đồng bộ (The Jazz Singer, 1927)?",
+    "answers": ["Metropolis", "The Great Dictator", "The Jazz Singer", "Gone with the Wind"],
+    "correctIndex": 2
+  },
+  {
+    "category": 5,
+    "question": "Tên của kỹ thuật quay phim tạo cảm giác nhân vật đứng yên nhưng hậu cảnh bị kéo giãn ra hoặc thu hẹp lại là gì?",
+    "answers": ["Jump cut", "Dolly Zoom", "Panning", "Tracking shot"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Giải thưởng danh giá nhất tại Liên hoan phim Cannes (Pháp) có tên là gì?",
+    "answers": ["Gấu Vàng", "Sư Tử Vàng", "Cành Cọ Vàng", "Tượng Vàng Oscar"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Bản giao hưởng số 3 của Beethoven ban đầu được đề tặng cho ai, nhưng sau đó ông đã xé tờ tiêu đề vì tức giận?",
+    "answers": ["Mozart", "Napoleon Bonaparte", "Vua George III", "Haydn"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Trong lý thuyết âm nhạc, khoảng cách giữa hai nốt nhạc có cùng tên nhưng khác cao độ được gọi là gì?",
+    "answers": ["Quãng ba", "Quãng năm", "Bát độ (Octave)", "Quãng bảy"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Nhà soạn nhạc người Nga nào là tác giả của vở nhạc kịch kinh điển 'The Rite of Spring' (Lễ bái xuân), gây chấn động Paris năm 1912?",
+    "answers": ["Tchaikovsky", "Rachmaninoff", "Igor Stravinsky", "Shostakovich"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Loại nhạc cụ dây nào nhỏ nhất và có cao độ lớn nhất trong dàn nhạc giao hưởng?",
+    "answers": ["Viola", "Cello", "Violin", "Contrabass"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Hợp âm trưởng (Major chord) được cấu tạo từ các nốt bậc mấy của âm giai trưởng?",
+    "answers": ["1, 2, 3", "1, 3, 5", "1, 4, 5", "2, 4, 6"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Trong lịch sử World Cup, cầu thủ duy nhất đã từng 3 lần nâng cao chiếc cúp vô địch là ai?",
+    "answers": ["Diego Maradona", "Lionel Messi", "Pelé", "Zinedine Zidane"],
+    "correctIndex": 2
+  },
+  {
+    "category": 7,
+    "question": "Môn thể thao 10 môn phối hợp (Decathlon) dành cho nam bao gồm bao nhiêu nội dung chạy, nhảy và ném?",
+    "answers": ["3 chạy, 4 nhảy, 3 ném", "4 chạy, 3 nhảy, 3 ném", "5 chạy, 3 nhảy, 2 ném", "4 chạy, 4 nhảy, 2 ném"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Tay vợt quần vợt nào đang giữ kỷ lục giành được nhiều danh hiệu Grand Slam đơn nam nhất lịch sử (tính đến năm 2024)?",
+    "answers": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+    "correctIndex": 2
+  },
+  {
+    "category": 7,
+    "question": "Trong môn cờ vua, thuật ngữ 'En Passant' dùng để chỉ hành động bắt quân của quân cờ nào?",
+    "answers": ["Quân Mã", "Quân Tượng", "Quân Tốt", "Quân Xe"],
+    "correctIndex": 2
+  },
+  {
+    "category": 7,
+    "question": "Đội tuyển bóng rổ Mỹ tham dự Olympic 1992 với các siêu sao như Michael Jordan, Magic Johnson được gọi bằng biệt danh gì?",
+    "answers": ["The Avengers", "Dream Team", "Gold Rush", "All-Stars"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Gia vị đắt đỏ nhất thế giới theo trọng lượng, được thu hoạch từ nhụy hoa của một loài cây thuộc họ Diên vĩ là gì?",
+    "answers": ["Vani", "Saffron (Nhụy hoa nghệ tây)", "Thanh quế", "Hạt tiêu đen"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Kỹ thuật nấu ăn 'Sous-vide' có nghĩa là nấu thực phẩm trong điều kiện như thế nào?",
+    "answers": ["Nấu trên lửa lớn", "Nấu trong túi hút chân không ở nhiệt độ thấp", "Nấu bằng hơi nước áp suất cao", "Nấu trong dầu sôi"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Vị 'Umami' - vị cơ bản thứ năm sau ngọt, chua, mặn, đắng - được phát hiện lần đầu tiên bởi nhà khoa học người nước nào?",
+    "answers": ["Pháp", "Nhật Bản", "Trung Quốc", "Ý"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Phô mai Roquefort nổi tiếng của Pháp được làm từ sữa của loài động vật nào?",
+    "answers": ["Bò", "Dê", "Cừu", "Trâu"],
+    "correctIndex": 2
+  },
+  {
+    "category": 8,
+    "question": "Món 'Scrambled eggs' đạt chuẩn theo phong cách Pháp của đầu bếp Auguste Escoffier thường có kết cấu như thế nào?",
+    "answers": ["Khô và xốp", "Cháy cạnh và giòn", "Mềm mịn, sệt như kem", "Đóng thành bánh cứng"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Loại hormone nào được sản xuất bởi tuyến thượng thận, giúp cơ thể phản ứng với căng thẳng (stress) và tăng lượng đường trong máu?",
+    "answers": ["Insulin", "Cortisol", "Melatonin", "Oxytocin"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Trong giải phẫu người, xương nào là xương dài nhất và khỏe nhất trong cơ thể?",
+    "answers": ["Xương cánh tay", "Xương chày", "Xương đùi", "Xương cột sống"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Hệ thống nhóm máu Rhesus (Rh) được đặt tên theo loài động vật nào?",
+    "answers": ["Thỏ", "Chuột", "Khỉ", "Chó"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Tình trạng thiếu hụt Vitamin C nghiêm trọng trong thời gian dài sẽ dẫn đến bệnh lý nào sau đây?",
+    "answers": ["Còi xương", "Quáng gà", "Scurvy (Bệnh thiếu máu, chảy máu nướu)", "Beri-beri"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Bộ phận nào trong não bộ chịu trách nhiệm chính cho việc điều khiển thăng bằng và phối hợp vận động?",
+    "answers": ["Đại não", "Tiểu não", "Vỏ não", "Hành não"],
+    "correctIndex": 1
+  },
+  {
+    "category": 10,
+    "question": "Ngôn ngữ lập trình C được phát triển lần đầu tiên tại đâu vào đầu thập niên 1970?",
+    "answers": ["Microsoft", "IBM", "Bell Labs", "Xerox PARC"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Trong mật mã học, thuật toán mã hóa đối xứng nổi tiếng AES là viết tắt của cụm từ nào?",
+    "answers": ["Advanced Encryption Standard", "Auto Encryption System", "Alpha Early Security", "Active Element Storage"],
+    "correctIndex": 0
+  },
+  {
+    "category": 10,
+    "question": "Định luật Moore (Moore's Law) dự đoán rằng số lượng bóng bán dẫn trên một chip máy tính sẽ tăng gấp đôi sau khoảng thời gian bao lâu?",
+    "answers": ["6 tháng", "12 tháng", "24 tháng", "5 năm"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Giao thức nào được sử dụng để truyền tải file dữ liệu giữa các máy tính qua mạng Internet?",
+    "answers": ["HTTP", "SMTP", "FTP", "DNS"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Người được coi là nữ lập trình viên đầu tiên trong lịch sử, người đã viết thuật toán cho Máy phân tích của Charles Babbage là ai?",
+    "answers": ["Grace Hopper", "Ada Lovelace", "Margaret Hamilton", "Joan Clarke"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Cái gì có thể đi khắp thế giới nhưng vẫn ở nguyên trong một góc?",
+    "answers": ["Lá thư", "Con tem", "Đôi giày", "Ý nghĩ"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Nếu bạn nói tên của tôi, bạn sẽ phá vỡ tôi. Tôi là ai?",
+    "answers": ["Lời hứa", "Sự im lặng", "Trái tim", "Bí mật"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Tôi có nhiều phím nhưng không thể mở được bất kỳ ổ khóa nào, có nhiều không gian nhưng không có chỗ để ở. Tôi là gì?",
+    "answers": ["Cái loa", "Bàn phím máy tính", "Đàn Piano", "Vũ trụ"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Người tạo ra nó không cần nó, người mua nó không dùng nó, người dùng nó không thấy nó. Đó là cái gì?",
+    "answers": ["Tiền bạc", "Cái quan tài", "Quần áo", "Thức ăn"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Cái gì thuộc về bạn, nhưng người khác lại sử dụng nó nhiều hơn bạn?",
+    "answers": ["Tiền", "Tên của bạn", "Quần áo", "Chiếc xe"],
+    "correctIndex": 1
+  },
+  
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Động vật nào có áp huyết cao nhất để có thể bơm máu lên tới não qua một cái cổ rất dài?",
+    "answers": ["Voi", "Hươu cao cổ", "Cá voi xanh", "Đà điểu"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Kim loại nào là kim loại duy nhất ở trạng thái lỏng trong điều kiện nhiệt độ phòng tiêu chuẩn?",
+    "answers": ["Chì", "Thủy ngân", "Bạc", "Đồng"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Trên Sao Kim, một ngày (thời gian tự quay quanh trục) dài hơn bao nhiêu so với một năm (thời gian quay quanh Mặt Trời)?",
+    "answers": ["Một ngày dài hơn một năm", "Một ngày ngắn hơn một năm", "Bằng nhau", "Sao Kim không quay"],
+    "correctIndex": 0
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Loài cây nào sau đây thực tế là một loại cỏ khổng lồ chứ không phải là cây thân gỗ?",
+    "answers": ["Cây dừa", "Cây tre", "Cây thông", "Cây sồi"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Âm thanh 'quack' của loài vật nào được cho là không bao giờ tạo ra tiếng vang (echo), dù thực tế khoa học đã chứng minh điều này là sai?",
+    "answers": ["Con ngỗng", "Con vịt", "Con thiên nga", "Con gà"],
+    "correctIndex": 1
+  },
+
+
+
+  {
+    "category": 0,
+    "question": "Trong lý thuyết số, giả thuyết nào phát biểu rằng mọi số tự nhiên chẵn lớn hơn 2 đều có thể biểu diễn bằng tổng của hai số nguyên tố?",
+    "answers": ["Giả thuyết Riemann", "Giả thuyết Goldbach", "Định lý lớn Fermat", "Số siêu việt"],
+    "correctIndex": 1
+  },
+  {
+    "category": 0,
+    "question": "Trong giải tích, đạo hàm của hàm số f(x) = ln(x) là gì?",
+    "answers": ["$1/x$", "$e^x$", "$ln(x)$", "$x^2$"],
+    "correctIndex": 0
+  },
+  {
+    "category": 0,
+    "question": "Một đa diện lồi có 12 mặt và 20 đỉnh thì sẽ có bao nhiêu cạnh (áp dụng đặc tính Euler)?",
+    "answers": ["24", "30", "32", "36"],
+    "correctIndex": 1
+  },
+  {
+    "category": 0,
+    "question": "Hệ số góc của đường thẳng tiếp tuyến với đồ thị hàm số $y = x^2$ tại điểm có hoành độ $x = 3$ là bao nhiêu?",
+    "answers": ["3", "6", "9", "1"],
+    "correctIndex": 1
+  },
+  {
+    "category": 0,
+    "question": "Trong thống kê, đại lượng nào đo lường mức độ phân tán của các giá trị so với số trung bình cộng?",
+    "answers": ["Kỳ vọng", "Trung vị", "Độ lệch chuẩn", "Mốt (Mode)"],
+    "correctIndex": 2
+  },
+  {
+    "category": 1,
+    "question": "Hòa ước Westphalia (1648) được coi là cột mốc quan trọng vì đã thiết lập nên nguyên tắc nào trong quan hệ quốc tế hiện đại?",
+    "answers": ["Quyền tự quyết của dân tộc", "Chủ quyền quốc gia", "Liên minh quân sự", "Tự do thương mại"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Trận đánh nào được coi là bước ngoặt quyết định khiến đế quốc Mông Cổ phải từ bỏ ý định xâm lược Nhật Bản vào thế kỷ 12?",
+    "answers": ["Trận Hakata", "Bão Kamikaze (Thần phong)", "Trận Tsushima", "Trận Sekigahara"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Trong Cách mạng Pháp, nhóm chính trị cực đoan nào do Robespierre lãnh đạo đã thực hiện thời kỳ 'Khủng bố' (Reign of Terror)?",
+    "answers": ["Girondins", "Jacobins", "Royalists", "Feuillants"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Vương triều nào ở Việt Nam đã thực hiện công cuộc cải cách hành chính chia cả nước thành 30 tỉnh và 1 phủ Thừa Thiên?",
+    "answers": ["Nhà Lê Sơ", "Nhà Tây Sơn", "Nhà Nguyễn (thời Minh Mạng)", "Nhà Lý"],
+    "correctIndex": 2
+  },
+  {
+    "category": 1,
+    "question": "Kế hoạch Marshall (1948) của Hoa Kỳ được triển khai nhằm mục đích chính là gì?",
+    "answers": ["Tấn công Liên Xô", "Phục hồi kinh tế Châu Âu sau Thế chiến II", "Thành lập NATO", "Chấm dứt chủ nghĩa phát xít"],
+    "correctIndex": 1
+  },
+  {
+    "category": 2,
+    "question": "Điểm 'Nemo' (Point Nemo) trên bản đồ thế giới nổi tiếng vì đặc điểm gì?",
+    "answers": ["Nơi sâu nhất đại dương", "Nơi xa đất liền nhất trên Trái Đất", "Nơi có từ trường mạnh nhất", "Nơi giao nhau của 5 đại dương"],
+    "correctIndex": 1
+  },
+  {
+    "category": 2,
+    "question": "Vùng đất trũng Danakil, một trong những nơi nóng và khắc nghiệt nhất thế giới, nằm ở quốc gia nào?",
+    "answers": ["Ai Cập", "Namibia", "Ethiopia", "Ả Rập Xê Út"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Sông nào là ranh giới tự nhiên dài nhất giữa hai quốc gia Hoa Kỳ và Mexico?",
+    "answers": ["Sông Colorado", "Sông Mississippi", "Sông Rio Grande", "Sông Amazon"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Eo biển nào nối liền Biển Đen với Biển Marmara và chia cắt thành phố Istanbul thành hai phần Á - Âu?",
+    "answers": ["Eo biển Gibraltar", "Eo biển Malacca", "Eo biển Bosphorus", "Eo biển Dover"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Thành phố La Paz (Bolivia) giữ kỷ lục là gì trên thế giới?",
+    "answers": ["Thành phố nóng nhất", "Thủ đô cao nhất so với mực nước biển", "Thành phố đông dân nhất", "Thành phố cô lập nhất"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Nguyên lý bất định Heisenberg phát biểu rằng chúng ta không thể xác định chính xác đồng thời hai đại lượng nào của một hạt sơ cấp?",
+    "answers": ["Khối lượng và vận tốc", "Vị trí và động lượng", "Năng lượng và thời gian", "Điện tích và spin"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Trong sinh học phân tử, quá trình tổng hợp RNA từ khuôn mẫu DNA được gọi là gì?",
+    "answers": ["Phát dịch", "Phiên mã", "Nhân đôi DNA", "Đột biến"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Hằng số Planck ($h$) đóng vai trò trung tâm trong lĩnh vực vật lý nào?",
+    "answers": ["Cơ học cổ điển", "Cơ học lượng tử", "Nhiệt động lực học", "Thuyết tương đối rộng"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Chất nào được coi là 'dung môi vạn năng' do khả năng hòa tan nhiều chất khác nhau nhờ tính phân cực mạnh?",
+    "answers": ["Rượu Etylic", "Benzen", "Nước ($H_2O$)", "Axit Sunfuric"],
+    "correctIndex": 2
+  },
+  {
+    "category": 3,
+    "question": "Hiện tượng các photon bị lệch hướng khi đi gần các thiên thể có khối lượng cực lớn được giải thích bởi thuyết nào?",
+    "answers": ["Thuyết lượng tử ánh sáng", "Thuyết tương đối rộng", "Thuyết điện từ Maxwell", "Định luật vạn vật hấp dẫn Newton"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Chọn từ đúng để hoàn thành câu giả định (Subjunctive mood): 'If I ______ you, I would accept the offer.'",
+    "answers": ["am", "was", "were", "be"],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Thành ngữ (Idiom) 'To play devil's advocate' có nghĩa là gì?",
+    "answers": ["Ủng hộ ác quỷ", "Đưa ra ý kiến phản biện để kiểm tra lập luận", "Luôn đồng ý với cấp trên", "Chơi trò chơi nguy hiểm"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Từ nào sau đây là một 'Portmanteau' (từ ghép hòa trộn âm và nghĩa)?",
+    "answers": ["Notebook", "Smartphone", "Smog (Smoke + Fog)", "Blackboard"],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Trong ngữ pháp tiếng Anh, 'Inversion' (đảo ngữ) thường xảy ra sau trạng từ phủ định nào đứng đầu câu?",
+    "answers": ["Always", "Frequently", "Seldom", "Often"],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Từ 'Meticulous' gần nghĩa nhất với từ nào dưới đây?",
+    "answers": ["Careless", "Extremely careful", "Very fast", "Angry"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Kỹ thuật 'Kuleshov Effect' trong dựng phim chứng minh rằng người xem sẽ thay đổi cảm nhận về biểu cảm của diễn viên dựa trên điều gì?",
+    "answers": ["Âm thanh nền", "Ánh sáng", "Sự sắp xếp các cảnh quay kế tiếp nhau", "Màu sắc phim"],
+    "correctIndex": 2
+  },
+  {
+    "category": 5,
+    "question": "Bộ phim nào của đạo diễn Orson Welles thường xuyên đứng đầu danh sách 'Những bộ phim hay nhất mọi thời đại' nhờ những cách tân về góc quay và cấu trúc truyện?",
+    "answers": ["Casablanca", "Citizen Kane", "The Godfather", "Vertigo"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Thuật ngữ 'MacGuffin' (được phổ biến bởi Alfred Hitchcock) dùng để chỉ điều gì trong phim?",
+    "answers": ["Một lỗi kịch bản", "Một vật thể thúc đẩy cốt truyện nhưng bản thân nó không quá quan trọng", "Cảnh quay từ trên cao", "Nhân vật phản diện chính"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Diễn viên nào giữ kỷ lục giành được nhiều giải Oscar cho 'Nam diễn viên chính xuất sắc nhất' nhất (3 giải)?",
+    "answers": ["Jack Nicholson", "Daniel Day-Lewis", "Marlon Brando", "Tom Hanks"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Bộ phim nào là tác phẩm đầu tiên giành được cả 5 giải Oscar quan trọng nhất (Phim, Đạo diễn, Nam chính, Nữ chính, Kịch bản)?",
+    "answers": ["Gone with the Wind", "It Happened One Night", "The Sound of Music", "Ben-Hur"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Trong âm nhạc cổ điển, cấu trúc một bản giao hưởng (Symphony) tiêu chuẩn thường gồm mấy chương?",
+    "answers": ["2", "3", "4", "5"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Thuật ngữ 'Libretto' dùng để chỉ thành phần nào trong một vở nhạc kịch hay Opera?",
+    "answers": ["Dàn nhạc", "Kịch bản/Lời thoại", "Trang phục", "Vũ đạo"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Kỹ thuật 'Vibrato' trên các nhạc cụ dây được thực hiện nhằm mục đích gì?",
+    "answers": ["Tăng âm lượng", "Tạo ra sự rung động tinh tế về cao độ", "Thay đổi nhịp điệu", "Làm sạch dây đàn"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Nhà soạn nhạc Frédéric Chopin nổi tiếng nhất với các tác phẩm viết cho nhạc cụ nào?",
+    "answers": ["Violin", "Sáo", "Piano", "Organ"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Quãng nào được gọi là 'Quãng tám' (Octave) có tỉ lệ tần số giữa hai nốt là bao nhiêu?",
+    "answers": ["1:1", "2:1", "3:2", "4:3"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Kỹ thuật nhảy cao 'Fosbury Flop' (nhảy ngửa lưng qua xà) được ra mắt và gây kinh ngạc tại kỳ Olympic nào?",
+    "answers": ["Tokyo 1964", "Mexico City 1968", "Munich 1972", "Montreal 1976"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Trong giải đua xe công thức 1 (F1), cờ có sọc trắng đen (Checkered flag) có ý nghĩa gì?",
+    "answers": ["Có tai nạn", "Yêu cầu xe vào pit", "Báo hiệu kết thúc cuộc đua", "Cảnh báo đường trơn"],
+    "correctIndex": 2
+  },
+  {
+    "category": 7,
+    "question": "Tại giải quần vợt Tour de France, chiếc áo vàng (Maillot Jaune) dành cho ai?",
+    "answers": ["Người thắng chặng cuối", "Người dẫn đầu bảng xếp hạng tổng sắp thời gian", "Vua leo núi", "Tay đua trẻ xuất sắc nhất"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Môn thể thao nào sau đây sử dụng thuật ngữ 'Birdie', 'Eagle' và 'Albatross' để tính điểm?",
+    "answers": ["Cầu lông", "Bắn cung", "Golf", "Bida"],
+    "correctIndex": 2
+  },
+  {
+    "category": 7,
+    "question": "Vận động viên Michael Phelps giữ kỷ lục vô tiền khoáng hậu với bao nhiêu huy chương Vàng Olympic trong sự nghiệp?",
+    "answers": ["18", "23", "28", "32"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Phản ứng hóa học nào xảy ra giữa đường và protein dưới tác động của nhiệt độ, tạo nên màu nâu và hương vị đặc trưng cho thịt nướng?",
+    "answers": ["Phản ứng lên men", "Phản ứng Maillard", "Sự Oxy hóa", "Sự Thủy phân"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Trong ẩm thực Pháp, 'Mother Sauces' (5 loại xốt nền chính) không bao gồm loại xốt nào dưới đây?",
+    "answers": ["Béchamel", "Hollandaise", "Bolognese", "Velouté"],
+    "correctIndex": 2
+  },
+  {
+    "category": 8,
+    "question": "Kỹ thuật 'Deglazing' trong nấu ăn dùng để làm gì?",
+    "answers": ["Làm lạnh thực phẩm nhanh", "Dùng chất lỏng hòa tan phần thức ăn bám dưới đáy chảo để làm xốt", "Tách mỡ ra khỏi nước dùng", "Thái rau củ hình sợi"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Loại nấm đắt đỏ nhất thế giới, thường được tìm thấy nhờ sự hỗ trợ của chó hoặc lợn huấn luyện, có tên là gì?",
+    "answers": ["Nấm Linh chi", "Nấm Kim châm", "Nấm Truffle (Bào ngư rừng)", "Nấm Đùi gà"],
+    "correctIndex": 2
+  },
+  {
+    "category": 8,
+    "question": "Cà phê 'Kopi Luwak' nổi tiếng thế giới được sản xuất thông qua hệ tiêu hóa của loài động vật nào?",
+    "answers": ["Voi", "Chồn", "Sóc", "Dơi"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Hợp chất ATP (Adenosine Triphosphate) được mệnh danh là gì trong hoạt động sinh hóa của con người?",
+    "answers": ["Chất thải tế bào", "Đồng tiền năng lượng của tế bào", "Sợi dẫn truyền thần kinh", "Cấu trúc xương thịt"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Cơ quan nào trong cơ thể người là nơi duy nhất có khả năng tái tạo hoàn toàn sau khi bị cắt bỏ một phần?",
+    "answers": ["Phổi", "Gan", "Thận", "Lách"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Khoảng cách giữa hai tế bào thần kinh, nơi tín hiệu hóa học được truyền đi, gọi là gì?",
+    "answers": ["Sợi trục", "Bao Myelin", "Synapse (Khớp thần kinh)", "Thân tế bào"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Hormone Insulin do tuyến nào tiết ra để điều chỉnh lượng đường trong máu?",
+    "answers": ["Tuyến giáp", "Tuyến tụy", "Tuyến yên", "Tuyến thượng thận"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Protein Hemoglobin trong hồng cầu có chứa nguyên tử kim loại nào để giúp vận chuyển Oxy?",
+    "answers": ["Đồng", "Magiê", "Sắt", "Kẽm"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Trong kiến trúc máy tính, mô hình nào tách biệt giữa bộ nhớ lưu trữ chương trình và bộ nhớ lưu trữ dữ liệu (ngược với kiến trúc Von Neumann)?",
+    "answers": ["Kiến trúc Harvard", "Kiến trúc RISC", "Kiến trúc CISC", "Kiến trúc Đa luồng"],
+    "correctIndex": 0
+  },
+  {
+    "category": 10,
+    "question": "Giao thức mật mã nào là tiền thân của TLS, được dùng để bảo mật kết nối web?",
+    "answers": ["FTP", "SSL", "SSH", "UDP"],
+    "correctIndex": 1
+  },
+  {
+    "category": 10,
+    "question": "Trong lập trình hướng đối tượng (OOP), khả năng một đối tượng có thể thực hiện một hành động theo nhiều cách khác nhau gọi là gì?",
+    "answers": ["Tính đóng gói", "Tính kế thừa", "Tính đa hình", "Tính trừu tượng"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Tên của siêu máy tính đầu tiên của IBM đã đánh bại nhà vô địch cờ vua thế giới Garry Kasparov vào năm 1997 là gì?",
+    "answers": ["Watson", "Deep Blue", "AlphaGo", "Blue Gene"],
+    "correctIndex": 1
+  },
+  {
+    "category": 10,
+    "question": "Cấu trúc dữ liệu nào hoạt động theo nguyên tắc LIFO (Last In, First Out)?",
+    "answers": ["Queue (Hàng đợi)", "Stack (Ngăn xếp)", "Linked List", "Tree"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Tôi có những thành phố nhưng không có nhà, có núi nhưng không có cây, có nước nhưng không có cá. Tôi là gì?",
+    "answers": ["Bản đồ", "Quả địa cầu", "Bức tranh", "Giấc mơ"],
+    "correctIndex": 0
+  },
+  {
+    "category": 11,
+    "question": "Cái gì có thể lấp đầy một căn phòng nhưng lại không chiếm bất kỳ không gian nào?",
+    "answers": ["Không khí", "Ánh sáng", "Âm thanh", "Mùi hương"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Càng nhiều nó, bạn càng ít thấy. Đó là gì?",
+    "answers": ["Sương mù", "Bóng tối", "Nước", "Ánh sáng"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Thứ gì luôn chạy nhưng không bao giờ mỏi, có miệng nhưng không bao giờ nói?",
+    "answers": ["Con sông", "Chiếc xe", "Đồng hồ", "Con gió"],
+    "correctIndex": 0
+  },
+  {
+    "category": 11,
+    "question": "Cái gì mà bạn có thể giữ sau khi đã cho người khác?",
+    "answers": ["Tiền bạc", "Lời hứa", "Bí mật", "Tình cảm"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Đuổi hình bắt chữ: Hình ảnh một 'miệng người' đang 'ngậm' một 'lá bùa'. Đây là từ gì?",
+    "answers": ["Ngậm ngùi", "Kín miệng", "Ngậm bùa", "Ngậm miệng ăn tiền"],
+    "correctIndex": 3
+  },
+  
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Trường Đại học Oxford (Anh) thực tế có tuổi đời lâu hơn đế chế nào sau đây?",
+    "answers": ["Đế chế La Mã", "Đế chế Aztec", "Đế chế Ottoman", "Đế chế Mông Cổ"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Một đám mây tích (Cumulus) có kích thước trung bình có thể nặng tương đương với bao nhiêu con voi?",
+    "answers": ["1 con", "10 con", "100 con", "500 con"],
+    "correctIndex": 2
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: ADN của con người giống với ADN của loài quả nào sau đây đến khoảng 50%?",
+    "answers": ["Táo", "Chuối", "Dưa hấu", "Xoài"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Loại sinh vật nào có khả năng sống sót trong môi trường chân không của vũ trụ, chịu được bức xạ và nhiệt độ cực hạn?",
+    "answers": ["Gián", "Bọ cạp", "Tardigrade (Gấu nước)", "Vi khuẩn E.coli"],
+    "correctIndex": 2
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Quốc gia nào có nhiều múi giờ nhất trên thế giới (tổng cộng 12 múi giờ)?",
+    "answers": ["Nga", "Hoa Kỳ", "Pháp", "Trung Quốc"],
+    "correctIndex": 2
+  },
+
+
+
+
+
+  {
+    "category": 0,
+    "question": "Trong hình học, tổng các góc ngoài của bất kỳ một đa giác lồi nào luôn bằng bao nhiêu độ?",
+    "answers": ["180°", "360°", "540°", "720°"],
+    "correctIndex": 1
+  },
+  {
+    "category": 0,
+    "question": "Số nào sau đây là số vô tỷ?",
+    "answers": ["3.14", "22/7", "Số Pi (π)", "0.333..."],
+    "correctIndex": 2
+  },
+  {
+    "category": 0,
+    "question": "Nếu tập hợp A có 3 phần tử, thì tập hợp lũy thừa của A (tất cả các tập con) có bao nhiêu phần tử?",
+    "answers": ["3", "6", "8", "9"],
+    "correctIndex": 2
+  },
+  {
+    "category": 1,
+    "question": "Vị vua nào của Việt Nam đã ra 'Chiếu dời đô' từ Hoa Lư về Thăng Long vào năm 1010?",
+    "answers": ["Lý Thánh Tông", "Lý Thái Tổ", "Lý Nhân Tông", "Lý Thái Tông"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Nữ hoàng Elizabeth II của Vương quốc Anh đã trị vì trong khoảng bao nhiêu năm?",
+    "answers": ["50 năm", "60 năm", "70 năm", "80 năm"],
+    "correctIndex": 2
+  },
+  {
+    "category": 1,
+    "question": "Con đường tơ lụa cổ đại chủ yếu kết nối Trung Hoa với khu vực nào?",
+    "answers": ["Châu Mỹ", "Châu Âu", "Châu Úc", "Châu Nam Cực"],
+    "correctIndex": 1
+  },
+  {
+    "category": 2,
+    "question": "Quốc gia nào được mệnh danh là 'Xứ sở lá phong'?",
+    "answers": ["Nhật Bản", "Canada", "Hàn Quốc", "Nga"],
+    "correctIndex": 1
+  },
+  {
+    "category": 2,
+    "question": "Đảo Greenland, hòn đảo lớn nhất thế giới, thuộc chủ quyền của quốc gia nào?",
+    "answers": ["Canada", "Na Uy", "Đan Mạch", "Iceland"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Dãy núi Andes - dãy núi dài nhất thế giới - nằm ở châu lục nào?",
+    "answers": ["Châu Á", "Châu Âu", "Châu Nam Mỹ", "Châu Bắc Mỹ"],
+    "correctIndex": 2
+  },
+  {
+    "category": 3,
+    "question": "Hiện tượng tán sắc ánh sáng qua lăng kính được phát hiện bởi nhà khoa học nào?",
+    "answers": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Marie Curie"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Hành tinh nào có chu kỳ tự quay quanh trục ngắn nhất (ngày ngắn nhất) trong hệ Mặt Trời?",
+    "answers": ["Trái Đất", "Sao Thổ", "Sao Mộc", "Sao Hỏa"],
+    "correctIndex": 2
+  },
+  {
+    "category": 3,
+    "question": "Chất khí nào thoát ra khi cho kim loại Natri phản ứng với nước?",
+    "answers": ["Oxy", "Hydro", "Cacbon đioxit", "Nitơ"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Trong tiếng Anh, từ 'Obstacle' có nghĩa là gì?",
+    "answers": ["Cơ hội", "Trở ngại", "Mục tiêu", "Hỗ trợ"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Từ trái nghĩa của 'Generous' (hào phóng) là gì?",
+    "answers": ["Kind", "Mean", "Happy", "Brave"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Thành ngữ 'Once in a blue moon' ám chỉ điều gì?",
+    "answers": ["Mỗi đêm trăng rằm", "Rất hiếm khi xảy ra", "Sắp xảy ra", "Luôn luôn xảy ra"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Bộ phim hoạt hình 'Vùng đất linh hồn' (Spirited Away) là tác phẩm của hãng phim nào?",
+    "answers": ["Pixar", "DreamWorks", "Studio Ghibli", "Disney"],
+    "correctIndex": 2
+  },
+  {
+    "category": 5,
+    "question": "Giải thưởng danh giá nhất được trao tại Liên hoan phim Cannes là gì?",
+    "answers": ["Giải Oscar", "Gấu Vàng", "Cành cọ Vàng", "Sư tử Vàng"],
+    "correctIndex": 2
+  },
+  {
+    "category": 5,
+    "question": "Nhân vật siêu anh hùng Iron Man tên thật là gì?",
+    "answers": ["Bruce Wayne", "Tony Stark", "Steve Rogers", "Peter Parker"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Ca sĩ được mệnh danh là 'Ông hoàng nhạc Rock and Roll' là ai?",
+    "answers": ["Michael Jackson", "Elvis Presley", "Freddie Mercury", "John Lennon"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Đàn Ukulele có nguồn gốc xuất xứ từ đâu?",
+    "answers": ["Tây Ban Nha", "Hawaii", "Bồ Đào Nha", "Mexico"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Ký hiệu 'p' (piano) trong một bản nhạc yêu cầu người chơi thực hiện âm lượng như thế nào?",
+    "answers": ["Mạnh", "Vừa phải", "Nhẹ", "Rất mạnh"],
+    "correctIndex": 2
+  },
+  {
+    "category": 7,
+    "question": "Kỳ World Cup đầu tiên trong lịch sử (1930) được tổ chức tại quốc gia nào?",
+    "answers": ["Brazil", "Uruguay", "Ý", "Pháp"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Trong môn Quyền Anh (Boxing), mỗi hiệp đấu chuyên nghiệp thường kéo dài bao nhiêu phút?",
+    "answers": ["2 phút", "3 phút", "5 phút", "10 phút"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Vận động viên Usain Bolt giữ kỷ lục thế giới ở cự ly chạy bao nhiêu mét?",
+    "answers": ["100m và 200m", "200m và 400m", "800m", "Marathon"],
+    "correctIndex": 0
+  },
+  {
+    "category": 8,
+    "question": "Món ăn 'Kimchi' là đặc sản nổi tiếng của quốc gia nào?",
+    "answers": ["Nhật Bản", "Trung Quốc", "Hàn Quốc", "Thái Lan"],
+    "correctIndex": 2
+  },
+  {
+    "category": 8,
+    "question": "Gia vị chính tạo nên vị cay nồng của món 'Wasabi' là từ loại cây nào?",
+    "answers": ["Ớt", "Tiêu", "Cải ngựa Nhật Bản", "Gừng"],
+    "correctIndex": 2
+  },
+  {
+    "category": 8,
+    "question": "Món 'Phở' truyền thống của Việt Nam thường có hai loại chính là gì?",
+    "answers": ["Phở bò và Phở lợn", "Phở bò và Phở gà", "Phở bò và Phở cá", "Phở gà và Phở vịt"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Cơ quan nào lớn nhất trên cơ thể con người?",
+    "answers": ["Gan", "Da", "Phổi", "Ruột già"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Tình trạng cận thị khiến người ta gặp khó khăn khi nhìn vật ở đâu?",
+    "answers": ["Nhìn gần", "Nhìn xa", "Nhìn trong bóng tối", "Nhìn vật chuyển động"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Bộ phận nào trong tai chịu trách nhiệm chính về khả năng giữ thăng bằng của cơ thể?",
+    "answers": ["Màng nhĩ", "Ống bán khuyên", "Xương búa", "Ốc tai"],
+    "correctIndex": 1
+  },
+  {
+    "category": 10,
+    "question": "Đơn vị đo dung lượng lưu trữ nhỏ nhất của máy tính là gì?",
+    "answers": ["Byte", "Bit", "Kilobyte", "Hertz"],
+    "correctIndex": 1
+  },
+  {
+    "category": 10,
+    "question": "Ngôn ngữ lập trình nào thường được dùng để phát triển các trang web động phía Client?",
+    "answers": ["Java", "Python", "JavaScript", "C++"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Tên của trình duyệt web do Google phát triển là gì?",
+    "answers": ["Safari", "Firefox", "Edge", "Chrome"],
+    "correctIndex": 3
+  },
+  {
+    "category": 11,
+    "question": "Cái gì mà bạn chỉ có thể nhìn thấy vào ban đêm nhưng lại không thể chạm vào?",
+    "answers": ["Cái bóng", "Những vì sao", "Ánh đèn đường", "Giấc mơ"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Cái gì càng rửa càng bẩn?",
+    "answers": ["Cái chậu", "Đôi tay", "Nước", "Quần áo"],
+    "correctIndex": 2
+  },
+  {
+    "category": 11,
+    "question": "Tôi có răng nhưng không bao giờ nhai. Tôi là ai?",
+    "answers": ["Con chó", "Cái lược", "Lưỡi cưa", "Cây kéo"],
+    "correctIndex": 1
+  },
+  
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Loài chim duy nhất có khả năng bay lùi là loài nào?",
+    "answers": ["Chim bói cá", "Chim ruồi (Hummingbird)", "Chim yến", "Chim đại bàng"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Một con bạch tuộc có tổng cộng bao nhiêu trái tim?",
+    "answers": ["1", "2", "3", "4"],
+    "correctIndex": 2
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Trái Đất mất bao nhiêu giây để quay hết 1 độ quanh trục của nó?",
+    "answers": ["60 giây", "120 giây", "240 giây", "360 giây"],
+    "correctIndex": 2
+  }
+
+
+
+
+
+  ,
+  {
+    "category": 0,
+    "question": "Trong hình học vi phân, một mặt không thể định hướng (non-orientable) tiêu biểu chỉ có một mặt và một biên là gì?",
+    "answers": ["Dải Möbius", "Chai Klein", "Mặt xuyến (Torus)", "Hình cầu đối mã"],
+    "correctIndex": 0
+  },
+  {
+    "category": 1,
+    "question": "Trận Gaugamela (331 TCN), nơi Alexander Đại đế đánh bại Darius III, đã đánh dấu sự sụp đổ của đế chế nào?",
+    "answers": ["Đế chế Ottoman", "Đế chế Achaemenes (Ba Tư)", "Đế chế Byzantine", "Đế chế Seleucid"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Ai là vị Pharaoh duy nhất trong lịch sử Ai Cập cổ đại đã cố gắng chuyển đổi tôn giáo sang thờ độc thần (thần đĩa mặt trời Aten)?",
+    "answers": ["Ramesses II", "Tutankhamun", "Akhenaten", "Thutmose III"],
+    "correctIndex": 2
+  },
+  {
+    "category": 1,
+    "question": "Trong lịch sử Việt Nam, cuộc khởi nghĩa Lam Sơn chống quân Minh xâm lược đã kéo dài trong bao nhiêu năm?",
+    "answers": ["5 năm", "10 năm", "12 năm", "20 năm"],
+    "correctIndex": 1
+  },
+  {
+    "category": 2,
+    "question": "Quần đảo Kerguelen, còn được gọi là 'Quần đảo Cô độc', thuộc chủ quyền của quốc gia nào?",
+    "answers": ["Anh", "Úc", "Pháp", "Na Uy"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Hệ thống hang động Sơn Đoòng (Việt Nam) được hình thành chủ yếu do sự hòa tan của loại đá nào?",
+    "answers": ["Đá Granite", "Đá Vôi (Limestone)", "Đá Basalt", "Đá Thạch anh"],
+    "correctIndex": 1
+  },
+  {
+    "category": 2,
+    "question": "Điểm sâu nhất của rãnh Mariana, 'Challenger Deep', có độ sâu xấp xỉ bao nhiêu mét?",
+    "answers": ["8,848m", "10,935m", "12,262m", "15,000m"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Trong cơ học lượng tử, hiện tượng hai hạt có mối liên kết kỳ lạ đến mức trạng thái của hạt này ảnh hưởng tức thời đến hạt kia bất kể khoảng cách gọi là gì?",
+    "answers": ["Sự chồng chập", "Rối lượng tử (Entanglement)", "Hiệu ứng đường hầm", "Bức xạ Hawking"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Nguyên tố hóa học nào có độ âm điện cao nhất theo thang Pauling?",
+    "answers": ["Oxy", "Clo", "Flo", "Heli"],
+    "correctIndex": 2
+  },
+  {
+    "category": 3,
+    "question": "Hạt sơ cấp nào được mệnh danh là 'Hạt của Chúa' giúp các hạt khác có khối lượng?",
+    "answers": ["Quark", "Gluon", "Boson Higgs", "Neutrino"],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Trong từ vựng tiếng Anh, từ 'Pneumonoultramicroscopicsilicovolcanoconiosis' dùng để chỉ bệnh gì?",
+    "answers": ["Bệnh tim mạch", "Bệnh phổi do hít phải bụi silic", "Một loại vi khuẩn vũ trụ", "Chứng sợ độ cao"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Thuật ngữ 'Oxymoron' trong tu từ học dùng để chỉ điều gì?",
+    "answers": ["Sự lặp từ", "Sự kết hợp của hai từ trái ngược nghĩa nhau", "Sự nói quá", "Sự ẩn dụ xa xôi"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Thành ngữ 'To burn the midnight oil' có nghĩa là gì?",
+    "answers": ["Tiết kiệm năng lượng", "Làm việc hoặc học tập muộn vào ban đêm", "Gây ra rắc rối", "Lãng phí thời gian"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Bộ phim nào là tác phẩm điện ảnh đầu tiên trong lịch sử sử dụng âm thanh đồng bộ hoàn toàn (Talkies)?",
+    "answers": ["The Jazz Singer (1927)", "Metropolis (1927)", "Singin' in the Rain", "Gone with the Wind"],
+    "correctIndex": 0
+  },
+  {
+    "category": 5,
+    "question": "Kỹ thuật quay phim 'Dolly Zoom' (hiệu ứng Vertigo) lần đầu tiên được phổ biến bởi đạo diễn nào?",
+    "answers": ["Steven Spielberg", "Alfred Hitchcock", "Stanley Kubrick", "Christopher Nolan"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Trong phim 'Inception', con quay (Totem) của nhân vật Cobb sẽ như thế nào nếu anh ta đang ở trong thế giới thực?",
+    "answers": ["Nó sẽ quay mãi không dừng", "Nó sẽ đổ xuống sau một thời gian", "Nó sẽ biến mất", "Nó sẽ đổi màu"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Trong hệ thống 12 cung nhạc (Western chromatic scale), khoảng cách giữa hai nốt nhạc có tần số gấp đôi nhau được gọi là gì?",
+    "answers": ["Quãng năm đúng", "Quãng tám (Octave)", "Quãng ba trưởng", "Quãng bảy"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Nhà soạn nhạc nào đã viết bản 'Symphony No. 9' (Giao hưởng Niềm vui) khi ông đã bị điếc hoàn toàn?",
+    "answers": ["Mozart", "Bach", "Beethoven", "Wagner"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Nhạc cụ nào được coi là 'Vua của các nhạc cụ' nhờ kích thước khổng lồ và khả năng tạo ra âm thanh cực kỳ đa dạng trong nhà thờ?",
+    "answers": ["Piano", "Pipe Organ (Đàn đại phong cầm)", "Harp", "Cello"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Đội tuyển bóng đá quốc gia nào là đội duy nhất tham dự đầy đủ tất cả các kỳ World Cup từ trước đến nay?",
+    "answers": ["Đức", "Ý", "Brazil", "Argentina"],
+    "correctIndex": 2
+  },
+  {
+    "category": 7,
+    "question": "Trong môn quần vợt, thuật ngữ 'Golden Set' dùng để chỉ điều gì?",
+    "answers": ["Thắng set đấu mà không thua một điểm (point) nào", "Thắng set đấu sau loạt tie-break", "Thắng cả 4 giải Grand Slam", "Thắng set đấu với tỷ số 6-0"],
+    "correctIndex": 0
+  },
+  {
+    "category": 7,
+    "question": "Vận động viên duy nhất từng giành huy chương vàng Olympic ở cả hai mùa Hè và Đông trong hai môn thể thao khác nhau là ai?",
+    "answers": ["Michael Phelps", "Usain Bolt", "Eddie Eagan", "Clara Hughes"],
+    "correctIndex": 2
+  },
+  {
+    "category": 8,
+    "question": "Loại phô mai xanh (Blue cheese) nổi tiếng thế giới 'Roquefort' được làm từ sữa của loài động vật nào?",
+    "answers": ["Bò", "Dê", "Cừu", "Trâu"],
+    "correctIndex": 2
+  },
+  {
+    "category": 8,
+    "question": "Trong ẩm thực phân tử (Molecular Gastronomy), kỹ thuật tạo ra những viên 'trứng cá' từ chất lỏng bằng Sodium Alginate gọi là gì?",
+    "answers": ["Sous-vide", "Spherification (Sự cầu hóa)", "Emulsification", "Foaming"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Gia vị 'Saffron' (Nhụy hoa nghệ tây) được coi là đắt nhất thế giới vì lý do chính nào?",
+    "answers": ["Nó chỉ mọc ở trên núi cao", "Cần thu hoạch thủ công hàng vạn bông hoa để có 1kg thành phẩm", "Nó có khả năng chữa bách bệnh", "Nó cực kỳ hiếm gặp trong tự nhiên"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Cấu trúc 'Vòng Willis' (Circle of Willis) nằm ở bộ phận nào trong cơ thể người?",
+    "answers": ["Trái tim", "Gan", "Não bộ", "Hệ tiêu hóa"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Cơ nào là cơ khỏe nhất trong cơ thể người tính theo trọng lượng và lực tạo ra?",
+    "answers": ["Cơ đùi", "Cơ tim", "Cơ cắn (Masseter)", "Cơ lưng"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Trong di truyền học, hiện tượng một gen duy nhất ảnh hưởng đến nhiều tính trạng khác nhau được gọi là gì?",
+    "answers": ["Đa gen", "Trội không hoàn toàn", "Tác động đa hiệu (Pleiotropy)", "Tương tác bổ sung"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Độ phức tạp thời gian (Time Complexity) của thuật toán sắp xếp 'Merge Sort' trong trường hợp xấu nhất là bao nhiêu?",
+    "answers": ["O(n)", "O(n^2)", "O(n log n)", "O(log n)"],
+    "correctIndex": 2
+  },
+  {
+    "category": 10,
+    "question": "Trong an ninh mạng, một 'Zero-day vulnerability' có nghĩa là gì?",
+    "answers": ["Lỗ hổng đã có từ 0 ngày trước", "Lỗ hổng chưa được nhà sản xuất biết đến hoặc chưa có bản vá", "Lỗ hổng cực kỳ dễ khai thác", "Lỗ hổng chỉ tồn tại trong 24 giờ"],
+    "correctIndex": 1
+  },
+  {
+    "category": 10,
+    "question": "Giao thức nào chịu trách nhiệm ánh xạ địa chỉ IP sang địa chỉ vật lý (MAC address)?",
+    "answers": ["HTTP", "DNS", "ARP", "DHCP"],
+    "correctIndex": 2
+  },
+  {
+    "category": 11,
+    "question": "Thứ gì có thể đi vòng quanh thế giới nhưng vẫn luôn ở trong một góc?",
+    "answers": ["Cái bóng", "Con tem", "Ý nghĩ", "Mặt trăng"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Người tạo ra nó không cần nó, người mua nó không dùng nó, người dùng nó không thấy nó. Đó là gì?",
+    "answers": ["Tiền bạc", "Quan tài", "Quần áo", "Chiếc giường"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Cái gì mà bạn luôn thấy phía trước nhưng không bao giờ bắt kịp?",
+    "answers": ["Đường chân trời", "Tương lai", "Cái bóng của mình", "Cả A và B"],
+    "correctIndex": 3
+  },
+  
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Kim tự tháp Giza thực chất có bao nhiêu mặt (không tính mặt đáy)?",
+    "answers": ["3 mặt", "4 mặt", "8 mặt", "12 mặt"],
+    "correctIndex": 2
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Loại kim loại duy nhất ở trạng thái lỏng trong điều kiện nhiệt độ phòng là gì?",
+    "answers": ["Brom", "Thủy ngân", "Gali", "Xesi"],
+    "correctIndex": 1
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Khoảng cách từ Trái Đất đến Mặt Trăng có thể chứa vừa bao nhiêu hành tinh khác trong hệ Mặt Trời?",
+    "answers": ["3 hành tinh", "5 hành tinh", "Tất cả các hành tinh còn lại", "Không chứa vừa hành tinh nào"],
+    "correctIndex": 2
+  },
+
+
+
+
+  {
+    "category": 0,
+    "question": "Trong hình học không Euclid, tổng các góc trong của một tam giác trên một mặt cầu luôn có đặc điểm gì?",
+    "answers": ["Luôn bằng 180°", "Luôn nhỏ hơn 180°", "Luôn lớn hơn 180°", "Bằng 360°"],
+    "correctIndex": 2
+  },
+  {
+    "category": 0,
+    "question": "Giả thuyết Riemann, một trong 7 bài toán thiên niên kỷ, liên quan đến sự phân bố của đối tượng nào?",
+    "answers": ["Số vô tỷ", "Số nguyên tố", "Số phức", "Ma trận nghịch đảo"],
+    "correctIndex": 1
+  },
+  {
+    "category": 0,
+    "question": "Ai là người đã chứng minh được Định lý lớn Fermat sau hơn 300 năm tồn tại vào năm 1994?",
+    "answers": ["Andrew Wiles", "Grigori Perelman", "Terence Tao", "John Nash"],
+    "correctIndex": 0
+  },
+  {
+    "category": 1,
+    "question": "Trong cuộc chiến tranh Peloponnese, hai thành bang nào là đối thủ chính của nhau?",
+    "answers": ["Rome và Carthage", "Athens và Sparta", "Thebes và Ba Tư", "Macedonia và Ai Cập"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Hòa ước Westphalia (1648) có ý nghĩa quan trọng nhất là gì đối với chính trị thế giới?",
+    "answers": ["Kết thúc Thế chiến I", "Hình thành khái niệm quốc gia chủ quyền", "Thống nhất nước Đức", "Thành lập Liên Hợp Quốc"],
+    "correctIndex": 1
+  },
+  {
+    "category": 1,
+    "question": "Vị hoàng đế nào của La Mã đã chia đế quốc thành hai phần Đông và Tây (Hệ thống Tứ đầu chế)?",
+    "answers": ["Augustus", "Constantine Đại đế", "Diocletian", "Nero"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Quốc gia nào có đường bờ biển dài nhất thế giới (hơn 202.000 km)?",
+    "answers": ["Nga", "Úc", "Canada", "Indonesia"],
+    "correctIndex": 2
+  },
+  {
+    "category": 2,
+    "question": "Sa mạc Danakil, một trong những nơi nóng nhất và thấp nhất Trái Đất, nằm ở quốc gia nào?",
+    "answers": ["Ai Cập", "Ethiopia", "Namibia", "Ả Rập Xê Út"],
+    "correctIndex": 1
+  },
+  {
+    "category": 2,
+    "question": "Điểm cực Nam của lục địa châu Á nằm ở quốc gia nào?",
+    "answers": ["Việt Nam", "Indonesia", "Malaysia", "Singapore"],
+    "correctIndex": 2
+  },
+  {
+    "category": 3,
+    "question": "Nguyên lý bất định (Uncertainty Principle) phát biểu rằng không thể xác định đồng thời vị trí và động lượng của một hạt, là của ai?",
+    "answers": ["Erwin Schrödinger", "Werner Heisenberg", "Max Planck", "Niels Bohr"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Trong bảng tuần hoàn, nhóm các nguyên tố từ số nguyên tử 57 đến 71 được gọi là gì?",
+    "answers": ["Actinoid", "Lanthanoid", "Kim loại kiềm thổ", "Khí hiếm"],
+    "correctIndex": 1
+  },
+  {
+    "category": 3,
+    "question": "Hằng số vũ trụ (Cosmological Constant) ban đầu được ai đưa vào phương trình trường để giữ cho vũ trụ tĩnh?",
+    "answers": ["Stephen Hawking", "Edwin Hubble", "Albert Einstein", "Georges Lemaître"],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Cụm từ Latinh 'Ad hominem' dùng để chỉ một loại ngụy biện tấn công vào đối tượng nào?",
+    "answers": ["Logic của lập luận", "Số liệu thống kê", "Cá nhân người tranh luận", "Sự thật khách quan"],
+    "correctIndex": 2
+  },
+  {
+    "category": 4,
+    "question": "Từ 'Serendipity' trong tiếng Anh có nghĩa là gì?",
+    "answers": ["Sự xui xẻo liên tiếp", "Khả năng tìm thấy điều may mắn một cách tình cờ", "Sự kiên trì tuyệt đối", "Nỗi buồn man mác"],
+    "correctIndex": 1
+  },
+  {
+    "category": 4,
+    "question": "Trong ngữ pháp, 'Tautology' là lỗi gì?",
+    "answers": ["Sai thì động từ", "Lặp nghĩa vô ích (ví dụ: 'hình tròn xoay')", "Thiếu chủ ngữ", "Dùng từ sai ngữ cảnh"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Kỹ thuật 'Chiaroscuro' trong hội họa và điện ảnh chú trọng vào sự tương phản giữa yếu tố nào?",
+    "answers": ["Màu nóng và màu lạnh", "Ánh sáng và bóng tối", "Tĩnh và động", "Gần và xa"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Đạo diễn nào nổi tiếng với 'Bộ ba phim về sự trả thù' (The Vengeance Trilogy), bao gồm phim Oldboy?",
+    "answers": ["Bong Joon-ho", "Park Chan-wook", "Kim Ki-duk", "Takeshi Kitano"],
+    "correctIndex": 1
+  },
+  {
+    "category": 5,
+    "question": "Phim 'Citizen Kane' thường được gọi là phim hay nhất mọi thời đại nhờ sử dụng đột phá kỹ thuật nào?",
+    "answers": ["Kỹ xảo CGI", "Quay phim lấy nét sâu (Deep focus)", "Màu sắc Technicolor", "Âm thanh vòm"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Trong nhạc lý, 'Tritone' được mệnh danh là 'Khoảng cách của quỷ' vì âm thanh của nó như thế nào?",
+    "answers": ["Cực kỳ du dương", "Gây cảm giác bất an, nghịch tai", "Rất trầm", "Rất cao"],
+    "correctIndex": 1
+  },
+  {
+    "category": 6,
+    "question": "Bản giao hưởng số mấy của Mahler được gọi là 'Giao hưởng Ngàn người'?",
+    "answers": ["Số 2", "Số 5", "Số 8", "Số 9"],
+    "correctIndex": 2
+  },
+  {
+    "category": 6,
+    "question": "Hệ thống 'Twelve-tone technique' (Nhạc 12 âm) được sáng tạo bởi nhà soạn nhạc nào?",
+    "answers": ["Arnold Schoenberg", "Igor Stravinsky", "Claude Debussy", "Richard Strauss"],
+    "correctIndex": 0
+  },
+  {
+    "category": 7,
+    "question": "Quốc gia nào đã giành chiến thắng tại kỳ World Cup đầu tiên được tổ chức tại châu Á (2002)?",
+    "answers": ["Đức", "Pháp", "Brazil", "Hàn Quốc"],
+    "correctIndex": 2
+  },
+  {
+    "category": 7,
+    "question": "Trong cờ vua, thuật ngữ 'Zugzwang' dùng để chỉ tình huống nào?",
+    "answers": ["Chiếu hết đối phương", "Bị bắt buộc phải đi một nước cờ làm yếu thế trận của chính mình", "Cờ hòa do lặp lại nước đi", "Phong cấp cho tốt"],
+    "correctIndex": 1
+  },
+  {
+    "category": 7,
+    "question": "Ai là tay vợt nam đầu tiên đạt được 'Golden Slam' (4 Grand Slam + HCV Olympic) trong cùng một năm?",
+    "answers": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Chưa có tay vợt nam nào (chỉ có nữ là Steffi Graf)"],
+    "correctIndex": 3
+  },
+  {
+    "category": 8,
+    "question": "Loại nấm đắt nhất thế giới 'Truffle trắng' chủ yếu được tìm thấy ở vùng nào của Ý?",
+    "answers": ["Sicily", "Piedmont", "Tuscany", "Lombardy"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Phản ứng hóa học tạo ra màu nâu và hương vị thơm ngon cho thịt khi áp chảo được gọi là gì?",
+    "answers": ["Lên men", "Phản ứng Maillard", "Oxy hóa", "Thủy phân"],
+    "correctIndex": 1
+  },
+  {
+    "category": 8,
+    "question": "Trong quy trình sản xuất trà, sự khác biệt lớn nhất giữa trà xanh và trà đen là gì?",
+    "answers": ["Loại cây trồng", "Thời gian thu hoạch", "Mức độ oxy hóa (lên men)", "Nhiệt độ nước pha"],
+    "correctIndex": 2
+  },
+  {
+    "category": 9,
+    "question": "Tế bào nào trong cơ thể người là tế bào duy nhất không có nhân khi đã trưởng thành?",
+    "answers": ["Tế bào thần kinh", "Hồng cầu", "Bạch cầu", "Tế bào cơ"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Kháng thể (Antibody) được sản xuất bởi loại tế bào nào?",
+    "answers": ["Tế bào T", "Tế bào B (Plasma cells)", "Đại thực bào", "Tiểu cầu"],
+    "correctIndex": 1
+  },
+  {
+    "category": 9,
+    "question": "Chu trình Krebs (chu trình axit citric) diễn ra ở bộ phận nào của tế bào?",
+    "answers": ["Nhân", "Ti thể", "Lưới nội chất", "Ribosome"],
+    "correctIndex": 1
+  },
+  {
+    "category": 10,
+    "question": "Trong cấu trúc dữ liệu, 'Hash Table' có độ phức tạp thời gian trung bình cho thao tác tìm kiếm là bao nhiêu?",
+    "answers": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+    "correctIndex": 0
+  },
+  {
+    "category": 10,
+    "question": "Nguyên lý 'SOLID' trong lập trình hướng đối tượng, chữ 'L' đại diện cho nguyên lý nào?",
+    "answers": ["Layered Architecture", "Liskov Substitution", "Least Privilege", "Logical Isolation"],
+    "correctIndex": 1
+  },
+  {
+    "category": 10,
+    "question": "Thuật toán mã hóa RSA dựa trên độ khó của bài toán toán học nào?",
+    "answers": ["Giải phương trình bậc 4", "Phân tích số nguyên lớn ra thừa số nguyên tố", "Tìm đường đi ngắn nhất", "Logarit rời rạc"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Thứ gì có thể lấp đầy một căn phòng nhưng không chiếm bất kỳ không gian nào?",
+    "answers": ["Không khí", "Ánh sáng", "Âm thanh", "Khói"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Tôi yếu đến mức chỉ cần gọi tên tôi là bạn đã phá vỡ tôi. Tôi là ai?",
+    "answers": ["Bong bóng", "Sự im lặng", "Lời hứa", "Giấc mơ"],
+    "correctIndex": 1
+  },
+  {
+    "category": 11,
+    "question": "Tôi có các thành phố nhưng không có nhà, có núi nhưng không có cây, có nước nhưng không có cá. Tôi là ai?",
+    "answers": ["Quả địa cầu", "Bản đồ", "Bức tranh", "Sa mạc"],
+    "correctIndex": 1
+  },
+  
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Con vật nào sau đây có DNA giống con người đến khoảng 98.8%?",
+    "answers": ["Khỉ đột", "Đười ươi", "Tinh tinh (Chimpanzee)", "Khỉ đuôi dài"],
+    "correctIndex": 2
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Vật liệu cứng nhất được tạo ra trong phòng thí nghiệm (vượt qua kim cương) là gì?",
+    "answers": ["Graphene", "Lonsdaleite", "Carbyne", "Wurtzite boron nitride"],
+    "correctIndex": 2
+  },
+  {
+    "category": 12,
+    "question": "Sự thật thú vị: Nếu bạn có thể gấp một tờ giấy 42 lần, độ dày của nó sẽ tương đương với khoảng cách nào?",
+    "answers": ["Từ Hà Nội đến TP.HCM", "Từ Trái Đất đến Mặt Trăng", "Độ sâu rãnh Mariana", "Đường kính Trái Đất"],
+    "correctIndex": 1
+  }
+  ]
+  
+}
