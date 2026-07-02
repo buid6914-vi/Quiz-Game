@@ -6,6 +6,8 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
 
     public static event Action OnGameOver;
+    public static event Action OnPause;
+    public static event Action OnResume;
 
     public GameState CurrentState { get; private set; }
 
@@ -61,6 +63,26 @@ public class GameManager : MonoBehaviour
     {
         Score += amount;
     }
+    public void PauseGame()
+    {
+        if (CurrentState == GameState.Paused)
+            return;
+
+        ChangeState(GameState.Paused);
+
+        Time.timeScale = 0;
+
+        OnPause?.Invoke();
+    }
+
+    public void ResumeGame()
+    {
+        ChangeState(GameState.Playing);
+
+        Time.timeScale = 1;
+
+        OnResume?.Invoke();
+    }
 
 
     public void SaveHighScore(QuestionCategory category, int score)
@@ -86,5 +108,9 @@ public class GameManager : MonoBehaviour
     {  ChangeState(GameState.GameOver);
       
         OnGameOver?.Invoke();
+    }
+    private void OnApplicationQuit()
+    {
+        Time.timeScale = 1;
     }
 }

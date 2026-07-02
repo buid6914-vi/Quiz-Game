@@ -78,6 +78,8 @@ public class BattleSystem : MonoBehaviour
 
     void HandleAnswer(bool correct)
     {
+        if(GameManager.Instance.CurrentState == GameState.Paused)
+            return;
         if (state != BattleState.PlayerTurn)
             return;
 
