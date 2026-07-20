@@ -29,7 +29,11 @@ public class QuestionManager : MonoBehaviour
 
     public int Score { get; private set; }
 
-
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip nextqsSource;
+    [SerializeField] private AudioClip correctanswerSource;
+    [SerializeField] private AudioClip wronganswerSource;
+    
     private void Awake()
     {
         if (Instance == null)
@@ -39,9 +43,10 @@ public class QuestionManager : MonoBehaviour
             Destroy(gameObject);
             return;
         }
-
+        audioSource=GetComponent<AudioSource>();
         LoadQuestions();
     }
+    
 
 
     void LoadQuestions()
@@ -86,6 +91,7 @@ public class QuestionManager : MonoBehaviour
 
     public void ShowNextQuestion()
     {
+        
         if (matchQuestions == null || matchQuestions.Count == 0)
             return;
 
@@ -102,7 +108,7 @@ public class QuestionManager : MonoBehaviour
             $"Question {currentQuestionIndex}";
 
         questionPanel.SetActive(true);
-
+        audioSource.PlayOneShot(nextqsSource);
         questionText.text = currentQuestion.questionText;
 
         SetupAnswers();
@@ -145,25 +151,28 @@ public class QuestionManager : MonoBehaviour
                 answers[i].text;
 
             AnswerOption option = answers[i];
-
+            
             btn.onClick.RemoveAllListeners();
 
             btn.onClick.AddListener(() =>
             {
+                
                 foreach (Button b in answerButtons)
                     b.interactable = false;
 
                 if (option.isCorrect)
                 {
                     btn.GetComponent<Image>().color = correctColor;
-
+                    audioSource.PlayOneShot(correctanswerSource);
                     Score += 10;
                     GameManager.Instance.AddScore(10);
                 }
                 else
                 {
+                    
                     btn.GetComponent<Image>().color = wrongColor;
-
+                    audioSource.PlayOneShot(wronganswerSource);
+                    
                     foreach (Button b in answerButtons)
                     {
                         if (b.GetComponentInChildren<TextMeshProUGUI>().text == currentQuestion.answers[currentQuestion.correctIndex])

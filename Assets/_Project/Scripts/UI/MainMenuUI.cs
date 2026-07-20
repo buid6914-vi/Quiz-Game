@@ -9,15 +9,19 @@ public class MainMenuUI : MonoBehaviour
 
     [Header("Texts")]
     [SerializeField] private TMP_Text[] highScoreTexts;
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip playClip;
 
     void Start()
     {
+        audioSource=GetComponent<AudioSource>();
         highScorePanel.SetActive(false);
     }
 
     public void Play()
     {
         SceneManager.LoadScene("CategoryScene");
+        audioSource.PlayOneShot(playClip);
     }
 
     public void Exit()

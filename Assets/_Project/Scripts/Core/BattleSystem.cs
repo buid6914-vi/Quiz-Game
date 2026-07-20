@@ -18,13 +18,18 @@ public class BattleSystem : MonoBehaviour
     private BattleState state;
     private QuestionCategory selectedCategory;
 
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip wronganswerSource;
+    
     private void Awake()
     {
         Instance = this;
+        
     }
 
     private void Start()
     {
+        audioSource=GetComponent<AudioSource>();
         state = BattleState.Start;
 
         selectedCategory =
@@ -59,9 +64,9 @@ public class BattleSystem : MonoBehaviour
 
         if (currentTime < 0)
             currentTime = 0;
-
+        
         timerText.text = Mathf.CeilToInt(currentTime).ToString();
-
+        
         if (currentTime <= 0)
         {
             TimeUp();
@@ -78,6 +83,7 @@ public class BattleSystem : MonoBehaviour
 
     void HandleAnswer(bool correct)
     {
+        
         if(GameManager.Instance.CurrentState == GameState.Paused)
             return;
         if (state != BattleState.PlayerTurn)
@@ -88,7 +94,9 @@ public class BattleSystem : MonoBehaviour
         if (correct)
             StartCoroutine(PlayerAttackRoutine());
         else
+            audioSource.PlayOneShot(wronganswerSource);
             StartCoroutine(EnemyAttackRoutine());
+            
     }
 
     IEnumerator PlayerAttackRoutine()
